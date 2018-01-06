@@ -1,5 +1,5 @@
 ---
-title: "Uploading artworks"
+title: "Uploading files"
 topic: "getting-started"
 order: 3
 ---
@@ -11,3 +11,5 @@ Select artworks that you want to upload and press "Upload" button. You will see 
 <p>
   <img alt="Uploading" src="{{site.url}}/images/tutorials/getting-started/artwork-uploading.gif" class="small-12 large-12" />
 </p>
+
+Xpiks saves your credentials in secure manner and also allows you to set master password. You can read more about security <a href="{{site.url}}/2016/01/13/ftp-and-security/">here.

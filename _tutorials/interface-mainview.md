@@ -4,43 +4,71 @@ topic: "interface"
 order: 1
 ---
 
-<h3>Most important areas:</h3>
-
 <p>
   <img alt="Main window" src="{{site.url}}/images/tutorials/interface/xpiks-main-window.png" class="small-12 large-12" />
 </p>
 
-On the image above you can see the following areas:
+<br />
 
-<h3>[1] - Global tools </h3>
+Main window consists of the following important areas:
+
+<h3>Global tools</h3>
 
 _Files and Folders_, _Quick Buffer_, _Translator_ and registered plugins will be available there as well. These tools are available in all editing views in Xpiks.
 
-<h3>[2] - Main actions</h3>
+<p>
+  <img alt="Global tools" src="{{site.url}}/images/tutorials/interface/global-tools.png" class="small-12 large-12" />
+</p>
 
-_Edit_, _Remove_, _Save_, _Upload_ and _Other actions_ in the context menu. These actions are enabled if you select artworks on which you can execute them.
+_Quick Buffer_ is an advanced clipboard for metadata transfer between different editing modes in Xpiks.
 
-<h3>[3] Opened directories</h3>
+_Translator_ allows you to translate separate words. Xpiks supports dictionaries of <a href="https://en.wikipedia.org/wiki/StarDict">StarDict</a> format which you need to add separately in order to use.
+
+<br />
+
+<h3>Opened directories</h3>
 
 Shows directories which are opened at the moment. You can remove them or show only files from selected directories by filtering them.
 
-<h3>[4] - Keyword's actions</h3>
+<p>
+  <img alt="Opened directories" src="{{site.url}}/images/tutorials/interface/opened-directories.png" class="small-12 large-12" />
+</p>
+
+<br />
+
+<h3>Main actions</h3>
+
+Main actions include _Edit_, _Remove_, _Save_, _Upload_ and _Other actions_ in the context menu. These actions are enabled if you select artworks on which you can execute them.
 
 <p>
-  <img alt="Keywords actions" src="{{site.url}}/images/tutorials/interface/keywords-actions.png" class="small-8 large-8" />
+  <img alt="Toolbar" src="{{site.url}}/images/tutorials/interface/mainview-toolbar.png" class="small-12 large-12" />
 </p>
+
+<br />
+
+<h3>Keyword's actions</h3>
 
 Various actions you can do with keywords like _Suggestion_, _Spelling fixes_ and others (available through _More_ menu).
 
-<h3>[5] - Artwork's actions</h3>
-
 <p>
-  <img alt="Artwork actions" src="{{site.url}}/images/tutorials/interface/artworks-actions.png" class="small-8 large-8" />
+  <img alt="Keywords actions" src="{{site.url}}/images/tutorials/interface/keywords-actions.png" class="small-12 large-12" />
 </p>
+
+<br />
+
+<h3>Artwork's actions</h3>
   
 Various actions you can do with each artwork like _Editing_, _Details_ and others. Also contains different options for videos and vectors.
 
+<p>
+  <img alt="Artwork actions" src="{{site.url}}/images/tutorials/interface/artworks-actions.png" class="small-12 large-12" />
+</p>
+
+<br />
+
 <hr />
+
+<br />
 
 Also in the main view you can switch between [Grid] and [List] ways to show the artworks:
 
