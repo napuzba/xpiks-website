@@ -22,7 +22,7 @@
 		img {
 			display: block;
 			margin: auto;
-			max-width: 165px;
+			max-width: 110px;
 			height: auto;
 		}
 	}
@@ -47,12 +47,17 @@
 
 .blog-page,
 .page-downloads {
-	.page-header {
-		@media screen and (min-width: 64.063em) {
-			padding-top: 130px;
-			.page-header-logo {
-				max-width: 120px;
-			}
-		}
+    .page-header {
+        .page-header-logo {
+            margin-bottom: 10px;
 	}
+        
+	@media screen and (min-width: 64.063em) {
+	    padding-top: 100px;
+	    .page-header-logo {
+		max-width: 120px;
+                margin-bottom: 20px;
+	    }
+	}
+    }
 }
