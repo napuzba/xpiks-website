@@ -52,8 +52,8 @@
 	color: $navbar-active-color;
 }
 
-#nav > .primary-nav > li.higlight > a {
-	color: #00B9BD;
+#nav > .primary-nav > li.highlight > a {
+	color: $btn-bg-color;
 }
 
 #nav > .primary-nav > li.dropdown > a {

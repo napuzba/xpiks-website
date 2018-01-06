@@ -27,8 +27,8 @@
 					</li>
 					{% elsif nav.href == page.url | split:'.html' | first %}
 						<li class="active"><a href="{{ site.url }}{{ nav.href }}">{{ nav.title }}</a></li>
-					{% elsif nav.higlight %}
-						<li class="higlight"><a href="{{ site.url }}{{ nav.href }}">{{ nav.title }}</a></li>
+					{% elsif nav.highlight %}
+						<li class="highlight"><a href="{{ site.url }}{{ nav.href }}">{{ nav.title }}</a></li>
 					{% else %}
 						<li><a href="{{ site.url }}{{ nav.href }}">{{ nav.title }}</a></li>
 					{% endif %}

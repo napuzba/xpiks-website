@@ -3,19 +3,20 @@ $primary-color: #1C2025;
 $primary-text-color: #30333B;
 $secondary-color: #C7CCD3;
 $complimentary-color: #fff;
+$blue-accent-color: #1EBFCA;
 
 $body-bg: #fff;
 $body-font-color: #3E434D;
 
 //Button
-$btn-bg-color: #12B9BC;
+$btn-bg-color: $blue-accent-color;
 $btn-bg-hover-color: #01D4D8;
 $btn-bg-active-color: #00999C;
 $btn-bg-grey-color: #7A7E86;
 $btn-bg-grey-hover-color: #979CA5;
 
 // Links
-$link-color: #00B9BD;
+$link-color: $blue-accent-color;
 $link-hover-color: #01D4D8;
 $link-visited-color: #00999C;
 
