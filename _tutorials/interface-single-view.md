@@ -4,13 +4,15 @@ topic: "interface"
 order: 2
 ---
 
+You can open this view from the <a href="{{site.url}}/tutorials/interface-mainview/">main window</a> if you double-click the image or select it and press "Edit" button. In order to close this view you need to click "Back" button. All edits made in this view are automatically saved. 
+
 <p>
   <img alt="Single editing view" src="{{site.url}}/images/tutorials/interface/single-artwork-window.png" class="small-12 large-12" />
 </p>
 
 <br />
 
-You can open this view if you double-click the image or select it and press "Edit" button. In order to close this view you need to click "Back" button. All edits made in this view are automatically saved. There're following important areas:
+There're following important areas:
 
 <br />
 
