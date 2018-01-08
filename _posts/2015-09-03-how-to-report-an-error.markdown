@@ -24,23 +24,21 @@ In order to find the logs through Xpiks, go to _Tools -> Advanced -> Show logs_.
   <img alt="Show logs" src="{{site.url}}/images/posts/show-logs-menu.png" class="small-12 large-12" />
 </p>
 
-There you can click **Reveal logfile**.
+There you can click **Reveal logfile**. This will open logs directory in the file manager (e.g. Finder or Explorer) and select logfile from the current session in Xpiks. If it was past session when you experienced problems then select other file than is currently selected.
 
 <p>
   <img alt="Reveal logfile" src="{{site.url}}/images/posts/reveal-logs.png" class="small-12 large-12" />
 </p>
 
-Please select correct logs and attach them to the topic in Support section.
+Each logfile has a date and a time in the filename so can select a correct file from the time when you experienced issues with Xpiks.
 
 <p>
-  <img alt="Reveal logfile" src="{{site.url}}/images/posts/select-logfile.png" class="small-12 large-12" />
+  <img alt="Select logfile" src="{{site.url}}/images/posts/select-logfile.png" class="small-12 large-12" />
 </p>
-
-Each logfile has a date and a time in the filename so can select a correct file from the time when you experienced issue in Xpiks.
 
 If you cannot open logs location from Xpiks, you can find the on disk in one of the following locations:
 
-- on Windows they should be at `C:/Users/USERNAME/AppData/Roaming/Xpiks/` directory
+- on Windows they should be at `%AppData%/Roaming/Xpiks/` directory
 - on OS X they should be at `~/Library/Application Support/Xpiks/` directory
 - on Linux they should be at `~/.local/share/xpiks/` directory
 
