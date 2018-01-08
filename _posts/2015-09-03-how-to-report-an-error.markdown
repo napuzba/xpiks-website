@@ -18,9 +18,25 @@ Please take care to describe not only what is not working but also why do you th
 
 <h3>3. Attach diagnostic logs</h3>
 
-This is very important for us to fix the issue. Please find the logs and attach them. In order to find the logs through Xpiks, go to _Tools -> Advanced -> Show logs_. There you can click **Reveal logfile**.
+This is very important for us to fix the issue. Please find the logs and attach them. 
+
+In order to find the logs through Xpiks, go to _Tools -> Advanced -> Show logs_. 
+
+<p>
+  <img alt="Show logs" src="{{site.url}}/images/posts/show-logs-menu.png" class="small-12 large-12" />
+</p>
+
+There you can click **Reveal logfile**.
+
+<p>
+  <img alt="Reveal logfile" src="{{site.url}}/images/posts/reveal-logs.png" class="small-12 large-12" />
+</p>
 
 Please select correct logs and attach them to the topic in Support section.
+
+<p>
+  <img alt="Reveal logfile" src="{{site.url}}/images/posts/select-logfile.png" class="small-12 large-12" />
+</p>
 
 If you cannot open logs location from Xpiks, you can find the on disk in one of the following locations:
 
