@@ -12,7 +12,7 @@ To report a bug, please do the following steps:
 
 <h3>2. Describe what do you observe and why it's a bug</h3>
 
-Please take care to describe not only what is not working but also why do you think it's a bug. Screenshots and any other information about what have you done before is very helpful.
+Please take care to describe not only what is not working but also why do you think it's a bug. _Screenshots_ and any other information about what have you done before is very helpful.
 
 <h3>3. Attach diagnostic logs</h3>
 
@@ -30,7 +30,7 @@ There you can click **Reveal logfile**. This will open logs directory in the fil
   <img alt="Reveal logfile" src="{{site.url}}/images/posts/reveal-logs.png" class="small-12 large-12" />
 </p>
 
-If it was past session when you experienced problems then select other file than is currently selected. Each logfile has a date and a time in the name of file so it helps to select a logfile from the session when you experienced issues with Xpiks. It might help to sort files by date.
+If it was past session when you experienced problems then select other file than is currently selected. Each logfile has a date and a time in the name of file so it helps to select a logfile from the session when you experienced issues with Xpiks. It might help to sort files by date. _If you're not sure which logs to choose, get few of them._
 
 <p>
   <img alt="Select logfile" src="{{site.url}}/images/posts/select-logfile.png" class="small-12 large-12" />
