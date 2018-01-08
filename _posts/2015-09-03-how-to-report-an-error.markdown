@@ -24,13 +24,13 @@ In order to find the logs through Xpiks, go to _Tools -> Advanced -> Show logs_.
   <img alt="Show logs" src="{{site.url}}/images/posts/show-logs-menu.png" class="small-12 large-12" />
 </p>
 
-There you can click **Reveal logfile**. This will open logs directory in the file manager (e.g. Finder or Explorer) and select logfile from the current session in Xpiks. If it was past session when you experienced problems then select other file than is currently selected.
+There you can click **Reveal logfile**. This will open logs directory in the file manager (e.g. Finder or Explorer) and select logfile from the current session in Xpiks.
 
 <p>
   <img alt="Reveal logfile" src="{{site.url}}/images/posts/reveal-logs.png" class="small-12 large-12" />
 </p>
 
-Each logfile has a date and a time in the filename so can select a correct file from the time when you experienced issues with Xpiks.
+If it was past session when you experienced problems then select other file than is currently selected. Each logfile has a date and a time in the name of file so it helps to select a logfile from the session when you experienced issues with Xpiks. It might help to sort files by date.
 
 <p>
   <img alt="Select logfile" src="{{site.url}}/images/posts/select-logfile.png" class="small-12 large-12" />
