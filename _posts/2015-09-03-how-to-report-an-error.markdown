@@ -30,7 +30,7 @@ There you can click **Reveal logfile**. This will open logs directory in the fil
   <img alt="Reveal logfile" src="{{site.url}}/images/posts/reveal-logs.png" class="small-12 large-12" />
 </p>
 
-If it was past session when you experienced problems then select other file than is currently selected. Each logfile has a date and a time in the name of file so it helps to select a logfile from the session when you experienced issues with Xpiks. It might help to sort files by date. _If you're not sure which logs to choose, get few of them._
+If it was _past session_ when you experienced problems then select _other file_ than is currently selected. Each logfile has a date and a time in the name of file so it helps to select a logfile from the session when you experienced issues with Xpiks. It might help to sort files by date. _If you're not sure which logs to choose, get few of them._
 
 <p>
   <img alt="Select logfile" src="{{site.url}}/images/posts/select-logfile.png" class="small-12 large-12" />
