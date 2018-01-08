@@ -6,9 +6,7 @@ date: 2015-09-03T00:45:01+02:00
 
 In case you had bad user experience with Xpiks (crash, failure, unexpected behavior) you can report it and it will be fixed as soon as possible taking into account it's severity.
 
-<br />
-
-To report an error, please do the following steps:
+To report a bug, please do the following steps:
 
 <h3>1. Open <a href="{{ site.url }}/support/">Support page</a>, post a new topic there</h3>
 
@@ -18,7 +16,7 @@ Please take care to describe not only what is not working but also why do you th
 
 <h3>3. Attach diagnostic logs</h3>
 
-This is very important for us to fix the issue. Please find the logs and attach them. 
+Xpiks logs diagnostic information while it works so this information can help later to fix an issue if there will be any. This information usually is crucial to include when you report a bug. Please find these diagnostic logs and attach them. 
 
 In order to find the logs through Xpiks, go to _Tools -> Advanced -> Show logs_. 
 
@@ -37,6 +35,8 @@ Please select correct logs and attach them to the topic in Support section.
 <p>
   <img alt="Reveal logfile" src="{{site.url}}/images/posts/select-logfile.png" class="small-12 large-12" />
 </p>
+
+Each logfile has a date and a time in the filename so can select a correct file from the time when you experienced issue in Xpiks.
 
 If you cannot open logs location from Xpiks, you can find the on disk in one of the following locations:
 
