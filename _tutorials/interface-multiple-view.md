@@ -24,7 +24,7 @@ If you click _Save_ Xpiks will apply changes which are enabled by **Changes swit
 
 <h3>Changes switches</h3>
 
-If you edit multiple artworks at once Xpiks provides you with flexible options to change selectively _Title_, _Description_ or _Keywords_ in the selected artworks. You can control these changes with checkboxes on the left. All of them are turned on by default.
+If you edit multiple artworks at once Xpiks provides you with flexible options to <a href="{{site.url}}/tutorials/batch-partial/">change selectively</a> _Title_, _Description_ or _Keywords_ in the selected artworks. You can control these changes with checkboxes on the left. All of them are turned on by default.
 
 <p>
   <img alt="Changes switches" src="{{site.url}}/images/tutorials/interface/changes-switches.png" class="small-12 large-12" />
