@@ -40,6 +40,6 @@ Here you can find artworks that you have selected before for editing in the <a h
   <img alt="Multiple editing artworks" src="{{site.url}}/images/tutorials/interface/multiple-roster.png" class="small-12 large-12" />
 </p>
 
-When you select artworks for mutliple editing Xpiks combines their metadata to show you common metadata they have. By default this common metadata is calculated from all images but using these tools you can recombine metadata only from the artworks you will select. Also you have possibility to remove them of the from multiple editing or to copy current metadata to QuickBuffer.
+When you select artworks for mutliple editing Xpiks combines their metadata to show you <a href="{{site.url}}/tutorials/batch-basic/">common metadata</a> they have. By default this common metadata is calculated from all images but using these tools you can recombine metadata only from the artworks you will select. Also you have possibility to remove them of the from multiple editing or to copy current metadata to QuickBuffer.
 
 <br />
