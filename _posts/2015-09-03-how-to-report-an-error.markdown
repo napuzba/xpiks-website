@@ -6,27 +6,40 @@ date: 2015-09-03T00:45:01+02:00
 
 In case you had bad user experience with Xpiks (crash, failure, unexpected behavior) you can report it and it will be fixed as soon as possible taking into account it's severity.
 
-To report an error, first of all write down what have you done before the error. 
+To report a bug, please do the following steps:
 
-Please, **enumerate as many steps you did as you can** (ideally all of them from the application start and to the failure).
+<h3>1. Open <a href="{{ site.url }}/support/">Support page</a>, post a new topic there</h3>
 
-Afterwards, **try to find Xpiks logs**:
+<h3>2. Describe what do you observe and why it's a bug</h3>
 
-As of Xpiks 1.1, you can easily find them in Logs View (leftmost link in the bottom of main window) with a magical button **"Reveal logfile"**. If you're on earlier build, you can find them in one of the following:
+Please take care to describe not only what is not working but also why do you think it's a bug. _Screenshots_ and any other information about what have you done before is very helpful.
 
-- on Windows they should be at `C:/Users/USERNAME/AppData/Roaming/Xpiks/` directory
+<h3>3. Attach diagnostic logs</h3>
+
+Xpiks logs diagnostic information while it works so this information can help later to fix an issue if there will be any. This information usually is crucial to include when you report a bug. Please find these diagnostic logs and attach them. 
+
+In order to find the logs through Xpiks, go to _Tools -> Advanced -> Show logs_. 
+
+<p>
+  <img alt="Show logs" src="{{site.url}}/images/posts/show-logs-menu.png" class="small-12 large-12" />
+</p>
+
+There you can click **Reveal logfile**. This will open logs directory in the file manager (e.g. Finder or Explorer) and select logfile from the current session in Xpiks.
+
+<p>
+  <img alt="Reveal logfile" src="{{site.url}}/images/posts/reveal-logs.png" class="small-12 large-12" />
+</p>
+
+If it was _past session_ when you experienced problems then select _other file_ than is currently selected. Each logfile has a date and a time in the name of file so it helps to select a logfile from the session when you experienced issues with Xpiks. It might help to sort files by date. _If you're not sure which logs to choose, get few of them._
+
+<p>
+  <img alt="Select logfile" src="{{site.url}}/images/posts/select-logfile.png" class="small-12 large-12" />
+</p>
+
+If you cannot open logs location from Xpiks, you can find the on disk in one of the following locations:
+
+- on Windows they should be at `%AppData%/Roaming/Xpiks/` directory
 - on OS X they should be at `~/Library/Application Support/Xpiks/` directory
 - on Linux they should be at `~/.local/share/xpiks/` directory
 
-Please, **paste the contents of the logfile to <a href="http://pastebin.com/">PasteBin</a>** or attach them as a file when writing in the Support section.
-
-Now you can navigate to the <a href="{{ site.url }}/support">Support</a> part of this website (Google group) and to **create a new topic**, where you are kindly asked to include:
-
-- short description of your system (name, version, architecture)
-- description of what you done before the crash (see above)
-- Xpiks logs as a file
-- anything you would be find useful (e.g. screenshots)
-
-Also you are welcome start a new topic if you'd like to propose an improvement or have any useful ideas on Xpiks development and mission.
-
-In case you're a developer and you have technical information about the issue, you're welcome to create a ticket at <a href="https://github.com/Ribtoks/xpiks/issues">Github page</a>.
+In case you're a developer and you have technical information about the issue, you're welcome to create a ticket at <a href="https://github.com/Ribtoks/xpiks/issues">Github Issues</a>.
