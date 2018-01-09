@@ -26,10 +26,10 @@ You can open one file in the <a href="{{site.url}}/tutorials/interface-single-vi
 
 <br />
 
-<h3>In the multiple editing view:</h3>
+<h3>In the batch editing view:</h3>
 
-Also sometimes it's handy to edit multiple similar images at once. To do that you need select images you want to edit and press "Edit" toolbar button. You will see <a href="{{site.url}}/tutorials/interface-multiple-view/">multiple editing view</a>:
+Also sometimes it's handy to edit multiple similar images at once. To do that you need select images you want to edit and press "Edit" toolbar button. You will see <a href="{{site.url}}/tutorials/interface-multiple-view/">batch editing view</a>:
 
 <p>
-  <img alt="Multiple editing" src="{{site.url}}/images/tutorials/getting-started/multiple-view-editing.gif" class="small-12 large-12" />
+  <img alt="Batch editing" src="{{site.url}}/images/tutorials/getting-started/multiple-view-editing.gif" class="small-12 large-12" />
 </p>
