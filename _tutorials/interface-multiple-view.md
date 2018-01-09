@@ -1,5 +1,5 @@
 ---
-title: "Multiple editing view"
+title: "Batch editing view"
 topic: "interface"
 order: 3
 ---
@@ -7,7 +7,7 @@ order: 3
 To edit multiple images at once you need to select them in the <a href="{{site.url}}/tutorials/interface-mainview/">main window</a> and press "Edit" button.
 
 <p>
-  <img alt="Multiple editing view" src="{{site.url}}/images/tutorials/interface/multiple-edit-window.png" class="small-12 large-12" />
+  <img alt="Batch editing view" src="{{site.url}}/images/tutorials/interface/multiple-edit-window.png" class="small-12 large-12" />
 </p>
 
 <br />
