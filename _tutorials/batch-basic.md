@@ -1,6 +1,6 @@
 ---
 title: "Overview"
-topic: "batch-overview"
+topic: "batch-editing"
 order: 1
 ---
 
