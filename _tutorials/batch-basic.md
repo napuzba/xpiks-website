@@ -4,10 +4,18 @@ topic: "batch-editing"
 order: 1
 ---
 
-If you're in the <a href="{{site.url}}/tutorials/interface-mainview/">main view</a> you can select files and press "Edit" button. This is how you start editing multiple files at once. In order to apply changes you press "Save" button.
+If you're in the <a href="{{site.url}}/tutorials/interface-mainview/">main view</a> you can select files and press "Edit" button. This is how you start editing multiple files at once.
 
 <p>
   <img alt="Multiple editing" src="{{site.url}}/images/tutorials/getting-started/multiple-view-editing.gif" class="small-12 large-12" />
+</p>
+
+<br />
+
+In order to apply changes you press "Save" button. Xpiks will overwrite metadata in all artworks that you have previously selected for editing in main view.
+
+<p>
+  <img alt="Commit toolbar" src="{{site.url}}/images/tutorials/interface/commit-toolbar.png" class="small-12 large-12" />
 </p>
 
 <br />
