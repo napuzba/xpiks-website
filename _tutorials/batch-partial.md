@@ -10,7 +10,7 @@ Sometimes you want only to:
 * clear _Description_ in multiple artworks at once
 * add few _Keywords_ to multiple artworks at once
 
-You can do all of that and even more in the <a href="{{site.url}}/tutorials/interface-multiple-view/">multiple editing view</a>. It contains checkboxes next to each field like _Title_, _Description_ or _Keywords_.
+You can do all of that and even more in the <a href="{{site.url}}/tutorials/interface-multiple-view/">multiple editing view</a>. It contains checkboxes next to each field like _Title_, _Description_ or _Keywords_ that allow to include or exclude changes done in these field when you will press "Save".
 
 <p>
   <img alt="Checkboxes" src="{{site.url}}/images/tutorials/batch-editing/checkboxes.gif" class="small-12 large-12" />
