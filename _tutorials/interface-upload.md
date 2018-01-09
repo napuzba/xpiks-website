@@ -4,7 +4,7 @@ topic: "interface"
 order: 4
 ---
 
-Once you're ready to <a href="{{site.url}}/tutorials/intro-uploading/">upload artorks</a> you can proceed to upload dialog.
+Once you're ready to <a href="{{site.url}}/tutorials/intro-uploading/">upload artworks</a> you can proceed to upload dialog.
 
 <p>
   <img alt="Upload view" src="{{site.url}}/images/tutorials/interface/upload.png" class="small-12 large-12" />
