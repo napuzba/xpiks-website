@@ -10,7 +10,9 @@ If you're in the <a href="{{site.url}}/tutorials/interface-mainview/">main view<
   <img alt="Multiple editing" src="{{site.url}}/images/tutorials/getting-started/multiple-view-editing.gif" class="small-12 large-12" />
 </p>
 
-If some of the files already had _Title_, _Description_ or _Keywords_ prefilled, Xpiks will show you common metadata in multiple editing view:
+<br />
+
+If some of the files already had _Title_, _Description_ or _Keywords_ prefilled, **Xpiks will show common metadata** in multiple editing view:
 
 - _Title_ will be prefilled if non-empty titles of selected artworks are the same
 - _Description_ will be prefilled if non-empty descriptions of selected artworks are the same
