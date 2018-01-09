@@ -10,6 +10,10 @@ To report a bug, please do the following steps:
 
 <h3>1. Open <a href="{{ site.url }}/support/">Support page</a>, post a new topic there</h3>
 
+<p>
+  <img alt="New Topic" src="{{site.url}}/images/posts/support-new-topic.png" class="small-12 large-12" />
+</p>
+
 <h3>2. Describe what do you observe and why it's a bug</h3>
 
 Please take care to describe not only what is not working but also why do you think it's a bug. _Screenshots_ and any other information about what have you done before is very helpful.
