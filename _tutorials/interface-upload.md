@@ -24,10 +24,13 @@ On the left you can see list of FTP stocks where Xpiks can upload to. Initially 
 
 <h3>FTP settings</h3>
 
-Panel on the right contains FTP settings that are required for upload: host address, username and password. Also it contains _Advanced_ settings which are rarely needed to tweak.
+_Title_ field is just for your convenience: it's what will be displayed in the column on the left. Other fields are required FTP credentials (host, username and password) that you need to fill in order to upload files anywhere. Also this panel contains _Advanced_ settings which are rarely needed to tweak.
 
 <p>
   <img alt="FTP settings" src="{{site.url}}/images/tutorials/interface/upload-settings.png" class="small-12 large-12" />
 </p>
+
+Xpiks saves your credentials in secure manner and also allows you to set master password. You can read more about security <a href="{{site.url}}/2016/01/13/ftp-and-security/">here.
+
 
 
