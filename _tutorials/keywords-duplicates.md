@@ -17,5 +17,5 @@ If duplicates detection is turned on in Settings, Xpiks will highlight duplicate
 In order to fix them Xpiks highlights them clearly for you if you click "Show duplicates".
 
 <p>
-  <img alt="Fix duplicates" src="{{site.url}}/images/tutorials/keywording/fix-duplicates.png" class="small-12 large-12" />
+  <img alt="Fix duplicates" src="{{site.url}}/images/tutorials/keywording/fix-duplicates.gif" class="small-12 large-12" />
 </p>
