@@ -30,7 +30,9 @@ Panel on the right contains FTP settings that are required for upload: host addr
   <img alt="FTP settings" src="{{site.url}}/images/tutorials/interface/upload-settings.png" class="small-12 large-12" />
 </p>
 
-Where _Title_ field is for your convenience: it's what will be displayed in the column on the left. Other fields are required FTP credentials (host, username and password) that you need to fill in order to upload files anywhere. Xpiks saves your credentials in secure manner and also allows you to set master password. You can read more about security <a href="{{site.url}}/2016/01/13/ftp-and-security/">here.
+Where _Title_ field is for your convenience: it's what will be displayed in the column on the left. Other fields are required FTP credentials (host, username and password) that you need to fill in order to upload files anywhere. 
+
+Xpiks saves your credentials in secure manner and also allows you to set master password. You can read more about security <a href="{{site.url}}/2016/01/13/ftp-and-security/">here.
 
 
 
