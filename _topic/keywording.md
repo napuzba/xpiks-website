@@ -1,7 +1,7 @@
 ---
-title: "Keywords editing"
-permalink: "/keywords-editing/"
-slug: "keywords-editing"
+title: "Keywording"
+permalink: "/keywording/"
+slug: "keywording"
 order: 3
 ---
 
