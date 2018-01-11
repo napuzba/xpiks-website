@@ -59,6 +59,11 @@
 		> li > a {
 			padding: 7px 25px;
 		}
+	}	
+	&.topic-open {
+		.tutorial-sub-nav {
+			display: block;
+		}
 	}
 	.tutorial-sub-nav {
 		font-size: 14px;
@@ -84,9 +89,6 @@
 
 			}
 		}
-	}	
-	&.topic-open {
-		display: block;
 	}
 	@media screen and (min-width: 40.063em) {
 		border: none;
