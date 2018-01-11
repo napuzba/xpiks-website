@@ -83,7 +83,7 @@ $(document).ready(function() {
 	});
 	
 	$('.tutorial-nav > li > a').click(function(){
-		$(this).next().toggleClass('topic-open');
+		$(this).parent().toggleClass('topic-open');
 	});
 	Accordion.init();
 	DownloadTabs.init(getOS());
