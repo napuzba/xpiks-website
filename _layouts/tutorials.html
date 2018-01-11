@@ -17,7 +17,7 @@ free_download_class: "section-grey"
 		    {% for topic in topics %}
 		    <li {% if page.url == topic.url %} class="active" {% endif %}>
 			<a href="{{topic.url| prepend: site.baseurl}}">{{ topic.title }}</a>
-			<ul class="tutorial-sub-nav">
+			<ul class="tutorial-sub-nav {% if page.url == topic.url %}topic-open{% endif %}">
 			    {% assign current_topic = groups | where: "name", topic.slug | first %}
                             {% assign current_posts = current_topic.items | sort: "order" %}
 			    {% for item in current_posts %}
