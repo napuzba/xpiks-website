@@ -42,4 +42,4 @@ If the keyword "looks like" the name of existing preset, you can "expand" it to 
 
 <h3>From the autocompletion</h3>
 
-Covered in a <a href="{{site.url}}/tutorials/presets-autocomplete/>separate topic</a>.
+Covered in a <a href="{{site.url}}/tutorials/presets-autocomplete/">separate topic</a>.
