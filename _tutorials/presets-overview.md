@@ -39,3 +39,7 @@ If the keyword "looks like" the name of existing preset, you can "expand" it to 
 <p>
   <img alt="Expand preset" src="{{site.url}}/images/tutorials/presets/expand-preset.gif" class="small-12 large-12" />
 </p>
+
+<h3>From the autocompletion</h3>
+
+Covered in a <a href="{{site.url}}/tutorials/presets-autocomplete/>separate topic</a>.
