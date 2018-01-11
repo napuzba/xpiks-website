@@ -18,6 +18,7 @@ free_download_class: "section-grey"
 			{% assign current_topic = groups | where: "name", topic.slug | first %}
                         {% assign current_posts = current_topic.items | sort: "order" %}
 			
+			{% assign is_current_topic = false %}
 			{% if topic.url == page.url %}
 			  {% assign is_current_topic = true %}
 			{% else %}
