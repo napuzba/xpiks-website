@@ -32,4 +32,10 @@ You can do it from the context menu "Insert preset" of the keywords field.
   <img alt="Insert preset" src="{{site.url}}/images/tutorials/presets/insert-preset.gif" class="small-12 large-12" />
 </p>
 
+<h3>From the keyword</h3>
 
+If the keyword "looks like" the name of existing preset, you can "expand" it to preset. Better see the example.
+
+<p>
+  <img alt="Expand preset" src="{{site.url}}/images/tutorials/presets/expand-preset.gif" class="small-12 large-12" />
+</p>
