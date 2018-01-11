@@ -82,8 +82,9 @@ $(document).ready(function() {
 		$(this).closest('.tutorials-sidebar').toggleClass('close');
 	});
 	
-	$('.tutorial-nav > li > a').click(function(){
-		$(this).parent().toggleClass('topic-open');
+	$('.tutorial-nav > li > a').click(function(ev){
+		ev.preventDefault();
+		$(this).next().toggleClass('topic-open');
 	});
 	Accordion.init();
 	DownloadTabs.init(getOS());
