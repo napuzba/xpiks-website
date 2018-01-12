@@ -50,7 +50,7 @@ Does 100% zooming so you can see the image in the 1:1 ratio in case you need to 
 
 <h3> Global tools slider</h3>
 
-Opens and closes Global tools (_Files and Folders_, _QuickBuffer_ and _Translator_).
+Opens and closes Global tools (_Files and Folders_, <a href="{{site.url}}/tutorials/quickbuffer-overview/">Quick Buffer</a> and <a href="{{site.url}}/tutorials/translator-overview/">Translator</a>).
 
 <p>
   <img alt="Open global tools" src="{{site.url}}/images/tutorials/interface/single-edit-slider.gif" class="small-12 large-12" />
