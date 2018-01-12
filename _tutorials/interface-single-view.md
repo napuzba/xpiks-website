@@ -38,7 +38,7 @@ It shows all artworks opened in Xpiks. You can switch between them by clicking o
 
 <h3>Keyword's actions</h3>
 
-Various actions you can do with keywords like _Suggestion_, _Spelling fixes_ and others (available through _More_ menu). Same actions like the one you can see in the <a href="{{site.url}}/tutorials/interface-mainview/">Main window</a>.
+Various actions you can do with keywords like <a href="{{site.url}}/tutorials/keywords-suggestion/">Suggestion</a>, <a href="{{site.url}}/tutorials/keywords-spelling/">Spelling fixes</a> and others (available through _More_ menu). Same actions like the one you can see in the <a href="{{site.url}}/tutorials/interface-mainview/">Main window</a>.
 
 <br />
 
