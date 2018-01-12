@@ -14,15 +14,15 @@ Main window consists of the following important areas:
 
 <h3>Global tools</h3>
 
-_Files and Folders_, _Quick Buffer_, _Translator_ and registered plugins will be available there as well. These tools are available in all editing views in Xpiks.
+_Files and Folders_, <a href="{{site.url}}/tutorials/quickbuffer-overview/">Quick Buffer</a>, <a href="{{site.url}}/tutorials/translator-overview/">Translator</a> and registered plugins will be available there as well. These tools are available in all editing views in Xpiks.
 
 <p>
   <img alt="Global tools" src="{{site.url}}/images/tutorials/interface/global-tools.png" class="small-12 large-12" />
 </p>
 
-_Quick Buffer_ is an advanced clipboard for metadata transfer between different editing modes in Xpiks.
+<a href="{{site.url}}/tutorials/quickbuffer-overview/">Quick Buffer</a> is an advanced clipboard for metadata transfer between different editing modes in Xpiks.
 
-_Translator_ allows you to translate separate words. Xpiks supports dictionaries of <a href="https://en.wikipedia.org/wiki/StarDict">StarDict</a> format which you need to add separately in order to use.
+<a href="{{site.url}}/tutorials/translator-overview/">Translator</a> allows you to translate separate words offline. Xpiks supports dictionaries of <a href="https://en.wikipedia.org/wiki/StarDict">StarDict</a> format which you need to add separately in order to use.
 
 <br />
 
@@ -48,7 +48,7 @@ Main actions include _Edit_, _Remove_, _Save_, _Upload_ and _Other actions_ in t
 
 <h3>Keyword's actions</h3>
 
-Various actions you can do with keywords like _Suggestion_, _Spelling fixes_ and others (available through _More_ menu).
+Various actions you can do with keywords like <a href="{{site.url}}/tutorials/keywords-suggestion/">Suggestion</a>, <a href="{{site.url}}/tutorials/keywords-spelling/">Spelling fixes</a> and others (available through _More_ menu).
 
 <p>
   <img alt="Keywords actions" src="{{site.url}}/images/tutorials/interface/keywords-actions.png" class="small-12 large-12" />
