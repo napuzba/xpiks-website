@@ -20,4 +20,10 @@ When you select results on the left, keywords common to all selected artworks wi
 
 <br />
 
+<h4>Local files suggestion</h4>
+
+Xpiks indexes all files you ever opened and it allows searching through them as you would search using microstocks websites. Just select **Local files** in dropdown on the right and you don't need internet to use "Suggest keywords" anymore.
+
+<br />
+
 Also you can repeat suggestion and add keywords many times from this dialog without closing it.
