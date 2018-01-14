@@ -5,7 +5,7 @@
 - title: >
     "Xpiks" can't be opened because it is from an unidentified developer
   content: >
-    Cmd-click the Xpiks.app and select Open from context menu. Read more at the <a href="https://support.apple.com/kb/PH18657" target="_blank">decicated official Apple webpage</a>.
+    Please go to Applications, right-click the Xpiks.app and select Open from context menu. Read more at the <a href="https://support.apple.com/kb/PH18657" target="_blank">decicated official Apple webpage</a>.
 
 - title: '"Import/Export finished with errors. See logs for details."'
   content: >
