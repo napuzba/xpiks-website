@@ -1,0 +1,11 @@
+- title: "Some users reported black thumbnails on Windows"
+  type: warning
+  date: 2018-01-15T15:24:10+03:00
+  content: >
+    "There's <a href="https://github.com/ribtoks/xpiks/issues/521">a report</a> of missing thumbnails on Windows after 1.5 release publishing"
+
+- title: "All services running OK"
+  type: info
+  date: 2018-01-15T12:00:23+03:00
+  content: >
+    "There are no ongoing incidents at the moment"
