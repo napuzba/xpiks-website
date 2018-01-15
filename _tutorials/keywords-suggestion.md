@@ -20,6 +20,14 @@ When you select results on the left, keywords common to all selected artworks wi
 
 <br />
 
+And also you can move all of the suggested keywords to "Other" section and add them one by one. To do that you need to use "Clear" action in the context menu.
+
+<p>
+  <img alt="Suggestions move" src="{{site.url}}/images/tutorials/keywording/suggestion-move.gif" class="small-12 large-12" />
+</p>
+
+<br />
+
 <h4>Local files suggestion</h4>
 
 Xpiks indexes all files you ever opened and it allows searching through them as you would search using microstocks websites. Just select **Local files** in dropdown on the right and you don't need internet to use "Suggest keywords" anymore.
