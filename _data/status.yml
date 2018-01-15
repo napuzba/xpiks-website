@@ -1,11 +1,17 @@
-- title: "Some users reported black thumbnails on Windows"
-  type: warning
+- title: "Hotfix 1.5.0.2 published"
+  type: status-ok
+  date: 2018-01-15T23:37:00+03:00
+  content: >
+    Issue with missing thumbnails is fixed. Release is proceeding
+
+- title: "Some users reported missing thumbnails on Windows 10"
+  type: status-warning
   date: 2018-01-15T15:24:10+03:00
   content: >
-    "There's <a href="https://github.com/ribtoks/xpiks/issues/521">a report</a> of missing thumbnails on Windows after 1.5 release publishing"
+    There's <a href="https://github.com/ribtoks/xpiks/issues/521">a report</a> of missing thumbnails on Windows after 1.5 release publishing
 
-- title: "All services running OK"
-  type: info
+- title: "Xpiks 1.5 release published"
+  type: status-ok
   date: 2018-01-15T12:00:23+03:00
   content: >
-    "There are no ongoing incidents at the moment"
+    There are no ongoing incidents at the moment
