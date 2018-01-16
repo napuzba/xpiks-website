@@ -1,6 +1,6 @@
 - title: 'All .xpks files are gone'
   content: >
-    Xpiks used to save temporary backups in <a href="http://xpiksapp.com/2015/11/14/what-are-xpks/">.xpks files</a>. As of version 1.5 and highter this is no longer the case as backups are saved in one local database instead of multiple files. So don't worry if they are gone, Xpiks still saves temporary backups and correctly writes metadata to files themselves when you Save.
+    Xpiks used to save temporary backups in <a href="http://xpiksapp.com/2015/11/14/what-are-xpks/">.xpks files</a>. As of version 1.5 and highter this is no longer the case as backups are saved in one local database instead of multiple files. So don't worry if they are gone, your data is still securely saved in images/video and backed up as you work.
 
 - title: 'Uploaded videos do not contain Keywords and Description'
   content: >
