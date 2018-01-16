@@ -33,3 +33,5 @@ Yes, now you can edit and upload video files just as photos and vectors! You wil
 </p>
 
 <br />
+
+Although most microstocks do not read metadata from video files as of today, the will do that in not so distant future. Xpiks not only writes metadata to video files, but also it provides options to export metadata CSV (comma-separated values file) for microstocks which do not read it from video files.
