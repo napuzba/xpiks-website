@@ -1,3 +1,9 @@
+- title: 'Hotfix 1.5.0.5 published'
+  type: status-ok
+  date: 2018-01-17T23:15:51+03:00
+  content: >
+    This is hotfix for the sssue with missing thumbnails. So far binaries provided for all platform except Linux.
+
 - title: 'Users still report missing thumbnails on some video files'
   type: status-warning
   date: 2018-01-17T13:15:22+03:00
@@ -9,7 +15,6 @@
   date: 2018-01-16T16:01:34+03:00
   content: >
     There's <a href="https://github.com/ribtoks/xpiks/issues/523">a report</a> that metadata sometimes cannot be read from the first try (but is read on second). These files are stored on Google Drive and the issue didn't repro in Xpiks 1.4.2
-
 
 - title: 'Hotfix 1.5.0.2 published'
   type: status-ok
