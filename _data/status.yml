@@ -2,7 +2,7 @@
   type: status-ok
   date: 2018-01-17T23:15:51+03:00
   content: >
-    This is hotfix for the sssue with missing thumbnails. So far binaries provided for all platform except Linux.
+    This is hotfix for the sssue with missing thumbnails. So far new binaries provided for all platforms except Linux.
 
 - title: 'Users still report missing thumbnails on some video files'
   type: status-warning
