@@ -1,5 +1,5 @@
 - title: 'Users still report missing thumbnails on some video files'
-  type: status-error
+  type: status-warning
   date: 2018-01-17T13:15:22+03:00
   content: >
     Issue with black thumbnails strikes back with unknown reason. Currently under investigation.
