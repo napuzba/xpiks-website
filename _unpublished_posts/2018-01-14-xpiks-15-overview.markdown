@@ -67,3 +67,16 @@ Want to continue working where you left last time when you opened Xpiks? Now thi
 <br />
 
 That said, Xpiks now also supports automatic import of metadata. This is an experimental feature, but combined with session management it should really simplify work. If you don't want import to be automatic you can always turn it off in _Settings -> System -> Experimental settings_.
+
+<br />
+
+# Directories filtering
+
+List of opened directories on the left has become more interactive now. You can easily filter files by clicking on the directory name. Multiselect is also available.
+
+<p>
+  <img alt="Directories filter" src="{{site.url}}/images/posts/xpiks-15-overview/directories-filter.gif" class="small-12 large-12" />
+</p>
+
+<br />
+
