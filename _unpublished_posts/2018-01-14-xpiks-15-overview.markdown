@@ -8,7 +8,7 @@ I'm proud to announce Xpiks 1.5 release! This is a major release which took almo
 
 # Interface
 
-Keeping in pace with <a href="{{site.url}}/2017/02/24/xpiks-14-detailed-features/"previous release</a> this one also brings many UI changes and improvements. Most notable ones are updated experience of main actions
+Keeping in pace with <a href="{{site.url}}/2017/02/24/xpiks-14-detailed-features/">previous release</a> this one also brings many UI changes and improvements. Most notable ones are updated experience of main actions
 
 <p>
   <img alt="Toolbar" src="{{site.url}}/images/tutorials/interface/mainview-toolbar.png" class="small-12 large-12" />
