@@ -4,7 +4,7 @@ topic: "interface"
 order: 5
 ---
 
-This is the list of hotkeys available in Xpiks for Windows (for Mac you just replace `Ctrl` with `Cmd`).
+This is the list of hotkeys available in Xpiks for Windows and Linux (for Mac you just replace `Ctrl` with `Cmd`).
 
 #### Main window
 
@@ -17,13 +17,9 @@ This is the list of hotkeys available in Xpiks for Windows (for Mac you just rep
 * `Shift + Ctrl + U` - Upload selected artworks
 * `Shift + Ctrl + L` - Show logs
 
-<br />
-
 #### Single editing view
 
 * `Ctrl + Alt + Arrow Left/Right` - move to left/right artwork
-
-<br />
 
 #### Keywords editing
 
