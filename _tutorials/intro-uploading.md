@@ -13,3 +13,11 @@ Select artworks that you want to upload and press "Upload" button. You will see 
 </p>
 
 Xpiks saves your credentials in secure manner and also allows you to set master password. You can read more about security <a href="{{site.url}}/2016/01/13/ftp-and-security/">here.
+
+<br />
+
+In order to add few upload hosts Xpiks can autocomplete stock name (even with fuzzy matching) and insert FTP address for you.
+
+<p>
+  <img alt="Uploading" src="{{site.url}}/images/tutorials/getting-started/add-ftp-host.gif" class="small-12 large-12" />
+</p>
