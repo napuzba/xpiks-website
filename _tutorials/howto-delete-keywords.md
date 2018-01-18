@@ -1,5 +1,5 @@
 ---
-title: "Delete keywords from many"
+title: "Batch delete keywords"
 topic: "howto"
 order: 1
 ---
