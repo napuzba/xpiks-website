@@ -18,7 +18,7 @@ google_universal_analytics: UA-10412407-9
 google_universal_analytics_cookiedomain: auto
 
 # Facebook Page
-use_facebook_page: true
+use_facebook_page: false
 
 # Build settings
 markdown: kramdown
