@@ -4,7 +4,7 @@ topic: "keywording"
 order: 2
 ---
 
-Xpiks checks spelling as you type and shows you spelling errors if spellchecing is turned ON in Settings. Please note how the keyword with wrong spelling got underlined red and "Fix spelling" link appeared on the bottom right corner.
+Xpiks checks spelling as you type and shows you spelling errors if spellchecking is turned ON in Settings. Please note how the keyword with wrong spelling got underlined red and "Fix spelling" link appeared on the bottom right corner.
 
 <p>
   <img alt="Spelling" src="{{site.url}}/images/tutorials/keywording/spelling-mistake.gif" class="small-12 large-12" />
