@@ -34,7 +34,7 @@ Yes, now you can edit and upload video files just as photos and vectors! You wil
 
 <br />
 
-Although most microstocks do not read metadata from video files as of today, the will do that in not so distant future. Xpiks not only writes metadata to video files, but also it provides options to **export metadata CSV** (comma-separated values file) for microstocks which do not read it from video files. This functionality is available from main menu _Edit -> Selected artworks -> Export to CSV_ as well as from the actions toolbar in the main window.
+Although most microstocks do not read metadata from video files as of today, they will do that in not so distant future. Xpiks not only writes metadata to video files, but also it provides options to **export metadata CSV** (comma-separated values file) for microstocks which do not read it from video files. This functionality is available from main menu _Edit -> Selected artworks -> Export to CSV_ as well as from the actions toolbar in the main window.
 
 <p>
   <img alt="CSV export" src="{{site.url}}/images/posts/xpiks-15-overview/csv-export.png" class="small-12 large-12" />
@@ -126,3 +126,7 @@ All previous versions of Xpiks have saved temporary backups in _.xpks_ files nex
 #### Open all recent files
 
 _Recent files_ menu got a small improvement: now you can open all recent files with one click. Also there's _Recent directories_ menu available.
+
+#### Copy to QuickBuffer from keywords suggestion
+
+Now you can copy artwork metadata to QuickBuffer straight from the Keywords Suggestion tool using right-click menu. This is useful if you would like to save Description, Title or Keywords of a specific artwork for later editing.
