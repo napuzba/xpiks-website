@@ -22,4 +22,4 @@ You will see many colorful lines of text of different components which report th
 
 <br />
 
-**Usually there's only one reason to open this dialog** - if you need to attach the logs along with the report through Xpiks Support. Then you can click _Reveal logfile_ button (see image above) and find the file you need.
+**Usually there's only one reason to open this dialog** - if you need to attach the logs along with the <a href="{{site.url}}/2015/09/03/how-to-report-an-error/">report through Xpiks Support</a>. Then you can click _Reveal logfile_ button (see image above) and find the file you need.

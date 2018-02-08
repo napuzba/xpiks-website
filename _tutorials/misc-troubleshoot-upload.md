@@ -22,4 +22,4 @@ Usually you would need to do the following:
 
 Later in order to understand what happens, you can open <a href="{{site.url}}/tutorials/misc-diagnostic-logs/">diagnostic logs</a>, but it is better to <a href="{{site.url}}/2015/09/03/how-to-report-an-error/">submit a support ticket</a> and get help from professional.
 
-Please keep in mind that Xpiks strips all sensitive data like passwords from detailed FTP logging. Read more about <a href="{{site.url}}/2016/01/13/ftp-and-security/">FTP security in blog</a>.
+Please keep in mind that Xpiks strips all sensitive data like passwords from detailed FTP logging. Read more about <a href="{{site.url}}/2016/01/13/ftp-and-security/">FTP security</a> in blog.
