@@ -6,7 +6,7 @@ order: 1
 
 Bugs are inevitable for applications of any size. Exactly for this reason most of them write "diagnostic logs" in order to investigate issues after they happen (postmortem analysis). Xpiks is no different in this regard and it also creates such logs.
 
-Every user of Xpiks can also see them. Logs are available from the _Tools_ menu:
+Every user of Xpiks can also see them. Logs are available from the _Tools -> Advanced_ menu:
 
 <p>
   <img alt="Show logs" src="{{site.url}}/images/tutorials/miscellaneous/show-logs.png" class="small-12 large-12" />
@@ -22,4 +22,4 @@ You will see many colorful lines of text of different components which report th
 
 <br />
 
-**Usually there's no need to read the logs** unless you're advanced computer user and interested in how Xpiks works.
+**Usually there's only one reason to open this dialog** - if you need to attach the logs along with the report through Xpiks Support. Then you can click _Reveal logfile_ button (see image above) and find the file you need.
