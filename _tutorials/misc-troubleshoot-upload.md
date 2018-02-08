@@ -1,5 +1,5 @@
 ---
-title: "Troubleshoot upload"
+title: "Upload troubleshooting"
 topic: "miscellaneous"
 order: 2
 ---
