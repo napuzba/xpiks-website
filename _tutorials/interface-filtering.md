@@ -54,7 +54,7 @@ Usually Xpiks searches for case-insensitive matches. But if you enter "!" (excla
 
 Also you can type in **special keywords** inside Search field. Those special keywords are `x:empty`, `x:modified`, `x:selected`, `x:vector` and `x:image`.
 
-For example, if you enter `x:empty` Xpiks will show you artworks which don't have any metadata filled in or if you enter `x:modified` Xpiks will show you artworks which are modified but not saved.
+For example, if you enter `x:empty` Xpiks will show you artworks which don't have any metadata filled in or if you enter `x:modified` Xpiks will show you artworks which are modified but not saved. You can also combine that with usual search terms.
 
 <p>
   <img alt="Search modified" src="{{site.url}}/images/tutorials/interface/search-xmodified.gif" class="small-12 large-12" />
