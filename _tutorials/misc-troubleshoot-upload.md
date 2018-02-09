@@ -4,7 +4,7 @@ topic: "miscellaneous"
 order: 2
 ---
 
-Quality of FTP upload in Xpiks depends very much not only on well-tested Xpiks code, but also on your local internet provider, microstocks websites which update and break their services frequently and many other fragile things. In case you have any connectivity issues it is important to detect where does the error originate: locally or on the FTP server side.
+Quality of FTP upload in Xpiks depends very much not only on time-tested uploading in Xpiks, but also on your local internet provider, microstocks websites which update and break their services frequently and many other fragile things. In case you have any connectivity issues it is important to detect where does the error originate: locally or on the FTP server side.
 
 Xpiks allows you to better understand what is going on with detailed upload logging. You can turn it on in _Upload_ section of _Settings_. Please keep in mind that **enabling detailed logging makes your upload slower** so please don't forget to **turn it off after** the experiment.
 
