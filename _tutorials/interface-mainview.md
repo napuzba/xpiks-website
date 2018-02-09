@@ -28,7 +28,7 @@ _Files and Folders_, <a href="{{site.url}}/tutorials/quickbuffer-overview/">Quic
 
 <h3>Opened directories</h3>
 
-Shows directories which are opened at the moment. You can remove them or show only files from selected directories by filtering them.
+Shows directories which are opened at the moment. You can remove them or show only files from selected directories by <a href="{{site.url}}/tutorials/interface-filtering/">filtering them</a>.
 
 <p>
   <img alt="Opened directories" src="{{site.url}}/images/tutorials/interface/opened-directories.png" class="small-12 large-12" />
