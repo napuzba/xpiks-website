@@ -38,7 +38,13 @@ Also you have "Copy to QuickBuffer" context menu in artworks previews in editing
   <img alt="QuickBuffer menu" src="{{site.url}}/images/tutorials/quickbuffer/context-menu.png" class="small-12 large-12" />
 </p>
 
+<br />
 
+And from <a href="{{site.url}}/tutorials/keywords-suggestion/">Keywords Suggestion</a> as well:
+
+<p>
+  <img alt="QuickBuffer from suggestion" src="{{site.url}}/images/tutorials/quickbuffer/from-suggestion.png" class="small-12 large-12" />
+</p>
 
 
 
