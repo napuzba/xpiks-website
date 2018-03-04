@@ -65,3 +65,8 @@ div.download-link:hover a {
 div.download-link a:hover {
     cursor: pointer;
 }
+
+img + em {
+  display: block;
+  margin-bottom: 20px;
+}
