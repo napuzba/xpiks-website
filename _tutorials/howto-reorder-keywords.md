@@ -1,5 +1,5 @@
 ---
-title: "Batch delete keywords"
+title: "Reorder keywords"
 topic: "howto"
 order: 4
 ---
