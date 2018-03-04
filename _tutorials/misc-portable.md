@@ -10,6 +10,8 @@ You can launch Xpiks in "portable" mode by adding "--portable" argument to it. T
 
 ### Step 1. Create a shortcut
 
+Right-click "Xpiks.exe" and select "Create shortcut". It will create a shortcut file next to the application.
+
 <p>
   <img alt="Create shortcut" src="{{site.url}}/images/tutorials/miscellaneous/create-shortcut.png" class="small-12 large-12" />
 </p>
@@ -33,3 +35,7 @@ Double click shortcut file to open Xpiks. Now Xpiks will store settings in the s
 <p>
   <img alt="Portable settings" src="{{site.url}}/images/tutorials/miscellaneous/settings-dir.png" class="small-12 large-12" />
 </p>
+
+<br />
+
+Now every time you open Xpiks via this shortcut it will use settings from "settings" directory.
