@@ -4,7 +4,7 @@ topic: "miscellaneous"
 order: 3
 ---
 
-Some users in Windows might want to make Xpiks more portable by having same settings and FTP credentials used everywhere. Now this became possible as of Xpiks 1.5.1.
+Some users in Windows might want to make Xpiks more portable by having same settings and FTP credentials saved next to application rather than in computer local files. Now this became possible as of Xpiks 1.5.1.
 
 You can launch Xpiks in "portable" mode by adding "--portable" argument to it. The easiest way to do it is to create a shortcut in Windows and launch Xpiks via Shortcut. Here's how to do it.
 
