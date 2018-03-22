@@ -2,8 +2,7 @@
 title: Xpiks
 email:
 
-description: > # this means to ignore newlines until "baseurl:"
-  Cross-platform image keywording software
+description: 'Application for keywording and uploading to microstocks'
 
 url: ""
 
@@ -12,6 +11,8 @@ browsers:
 
 # Exclude our ruby stuff
 exclude: [.bundle, bin, vendor, Gemfile, Gemfile.lock, Rakefile, s3_website.yml, .last_optimized]
+
+plugins: [jekyll-seo-tag]
 
 # Google Analytics
 google_universal_analytics: UA-10412407-9
