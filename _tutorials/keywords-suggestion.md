@@ -38,7 +38,7 @@ Xpiks indexes all files you ever opened and it allows searching through them as 
 
 ### Advanced actions
 
-You can also open suggested image in browser from the context menu as well as copy available metadata to QuickBuffer. It could be useful in case you want to take a look at other image properties like Description/Title, Author, location or anything else provided on the microstock website or not available in Xpiks.
+You can also open suggested image in browser from the context menu as well as copy available metadata to QuickBuffer. It could be useful in case you want to take a look at other image properties like Description/Title, Author, location or anything else provided on the microstock website and not available in Xpiks.
 
 <p>
   <img alt="Suggestions menu" src="{{site.url}}/images/tutorials/keywording/suggestion-menu.png" class="small-12 large-12" />
