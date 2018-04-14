@@ -30,6 +30,10 @@ And also you can move all of the suggested keywords to "Other" section and add t
 
 <br />
 
+You can repeat suggestion and add keywords many times from this dialog without closing it.
+
+<br />
+
 ### Local files suggestion
 
 Xpiks indexes all files you ever opened and it allows searching through them as you would search using microstocks websites. Just select **Local files** in dropdown on the right and you don't need internet to use "Suggest keywords" anymore.
@@ -43,9 +47,3 @@ You can also open suggested image in browser from the context menu as well as co
 <p>
   <img alt="Suggestions menu" src="{{site.url}}/images/tutorials/keywording/suggestion-menu.png" class="small-12 large-12" />
 </p>
-
-<br />
-
-<br />
-
-Also you can repeat suggestion and add keywords many times from this dialog without closing it.
