@@ -4,6 +4,8 @@ topic: "keywording"
 order: 4
 ---
 
+### General
+
 Xpiks can help you to fill keywords from similar images from microstocks or from your local files. Currently only Shutterstock, Fotolia and iStock are supported. In order to do so you click "Suggest keywords" below _Keywords_ field or through "More" menu.
 
 <p>
@@ -28,9 +30,21 @@ And also you can move all of the suggested keywords to "Other" section and add t
 
 <br />
 
-<h4>Local files suggestion</h4>
+### Local files suggestion
 
 Xpiks indexes all files you ever opened and it allows searching through them as you would search using microstocks websites. Just select **Local files** in dropdown on the right and you don't need internet to use "Suggest keywords" anymore.
+
+<br />
+
+### Advanced actions
+
+You can also open suggested image in browser from the context menu as well as copy available metadata to QuickBuffer. It could be useful in case you want to take a look at other image properties like Description/Title, Author, location or anything else provided on the microstock website or not available in Xpiks.
+
+<p>
+  <img alt="Suggestions menu" src="{{site.url}}/images/tutorials/keywording/suggestion-menu.png" class="small-12 large-12" />
+</p>
+
+<br />
 
 <br />
 
