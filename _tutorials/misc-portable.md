@@ -6,7 +6,7 @@ order: 3
 
 Some users in Windows might want to make Xpiks more portable by having same settings and FTP credentials saved next to application rather than in computer local files. Now this became possible as of Xpiks 1.5.1.
 
-You can launch Xpiks in "portable" mode by adding "--portable" argument to it. The easiest way to do it is to create a shortcut in Windows and launch Xpiks via Shortcut. Here's how to do it.
+You can launch Xpiks in "portable" mode by adding `--portable` argument to it. The easiest way to do it is to create a shortcut in Windows and launch Xpiks via Shortcut. Here's how to do it.
 
 ### Step 1. Create a shortcut
 
@@ -18,9 +18,9 @@ Right-click "Xpiks.exe" and select "Create shortcut". It will create a shortcut 
 
 <br />
 
-### Step 2. Add "--portable" to arguments
+### Step 2. Add `--portable` to arguments
 
-Right-click shortcut file in Explorer and click "Properties". Add "--portable" (without quotes) inside `Target` field (don't forget to have a space between "Xpiks.exe" and "--portable").
+Right-click shortcut file in Explorer and click "Properties". Add "--portable" (without quotes) inside `Target` field (don't forget to have a space between "Xpiks.exe" and `--portable`).
 
 <p>
   <img alt="Create shortcut" src="{{site.url}}/images/tutorials/miscellaneous/portable-option.png" class="small-12 large-12" />
