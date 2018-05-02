@@ -20,7 +20,7 @@ Usually you would need to do the following:
 * try to upload some files (this will generate enough logs to troubleshoot networking)
 * turn off _Detailed logging_ for uploading
 
-Later in order to understand what happens, you can open <a href="{{site.url}}/tutorials/misc-diagnostic-logs/">diagnostic logs</a>, but it is better to <a href="{{site.url}}/2015/09/03/how-to-report-an-error/">submit a support ticket</a> and get help from professional.
+Later in order to understand what happens, you can open <a href="{{site.url}}/tutorials/misc-diagnostic-logs/">diagnostic logs</a>, but it is better to <a href="{{site.url}}/how-to-report-a-bug/">submit a support ticket</a> and get help from professional.
 
 Detailed upload logging saves the dialog between Xpiks and remote server. This dialog can be extremely useful to troubleshoot the problem on either side. This is an example of such dialog for testing the connection:
 
