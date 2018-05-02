@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "How to report a bug"
-date: 2015-09-03T00:45:01+02:00
+date: 2015-09-03T07:45:01+02:00
 ---
 
 In case you had bad user experience with Xpiks (crash, failure, unexpected behavior) you can report it and it will be fixed as soon as possible taking into account it's severity.
