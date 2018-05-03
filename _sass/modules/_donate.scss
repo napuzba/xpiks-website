@@ -1,0 +1,59 @@
+.donate-header {
+    background: url('../images/donate/donatehero.png') no-repeat center center;
+    text-align: center;
+    background-color: #F8F8FB;
+    background-size: contain;
+    height: 540px;
+
+    h1 {
+        margin: 2px 0;
+        padding: 55px 0;
+        font-size: 20px;
+        font-weight: bold;
+        @media screen and (min-width: 64.063em) {
+	    font-size: $font-size-h1;
+	}
+    }
+
+    .small-12 {
+	padding-left: 15px;
+	padding-right: 15px;
+    }
+
+    .donate-plan {
+        background: #ffffff;
+        margin-left: auto;
+        margin-right: auto;
+        width: 240px;
+        height: 260px;
+        text-align: center;
+        position: relative;
+
+        img.heart {
+            position: absolute;
+            top: -12px;
+            left: 12px;
+        }
+
+        p.amount {
+            padding-top: 20px;
+            margin-left: auto;
+            margin-right: auto;
+
+            span.dollar {
+                position: relative;
+                top: -20px;
+                font-size: 30px;
+                font-family: $base-font-family;
+                color: $blue-accent-color;
+            }
+
+            span.number {
+                font-size: 50px;
+                font-family: $base-font-family;
+                color: $blue-accent-color;
+            }   
+        }
+        
+    }
+}
