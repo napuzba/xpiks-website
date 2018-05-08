@@ -4,7 +4,7 @@
 
 - title: 'Uploaded videos do not contain Keywords and Description'
   content: >
-    Currently only Fotolia reads embedded metadata from videos. Other microstocks require you to fill it by hand on website or upload <i>separate CSV file</i> with metadata.
+    Currently only Fotolia reads embedded metadata from videos. Other microstocks require you to fill it by hand on website or upload <i><a href="http://xpiksapp.com/tutorials/howto-export-csv/">separate CSV file</a></i> with metadata.
 
 - title: 'Automatic update in Windows is stuck on "Updating components"'
   content: >
