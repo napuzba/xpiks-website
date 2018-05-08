@@ -20,7 +20,7 @@ Right-click "Xpiks.exe" and select "Create shortcut". It will create a shortcut 
 
 ### Step 2. Add `--portable` to arguments
 
-Right-click shortcut file in Explorer and click "Properties". Add "--portable" (without quotes) inside `Target` field (don't forget to have a space between "Xpiks.exe" and `--portable`).
+Right-click shortcut file in Explorer and click "Properties". Add `--portable` inside `Target` field (don't forget to have a space between "Xpiks.exe" and `--portable`).
 
 <p>
   <img alt="Create shortcut" src="{{site.url}}/images/tutorials/miscellaneous/portable-option.png" class="small-12 large-12" />
