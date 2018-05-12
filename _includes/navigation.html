@@ -29,6 +29,8 @@
 						<li class="active"><a href="{{ site.url }}{{ nav.href }}">{{ nav.title }}</a></li>
 					{% elsif nav.highlight %}
 						<li class="highlight"><a href="{{ site.url }}{{ nav.href }}">{{ nav.title }}</a></li>
+                                        {% elsif nav.gold %}
+						<li class="highlight-gold"><a href="{{ site.url }}{{ nav.href }}">{{ nav.title }}</a></li>
 					{% else %}
 						<li><a href="{{ site.url }}{{ nav.href }}">{{ nav.title }}</a></li>
 					{% endif %}
