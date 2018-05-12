@@ -1,19 +1,21 @@
 ---
 layout: default
-title: FAQ
+title: Thank you
 permalink: /paypal-success/
 ---
 
-<article class="row">
-<section class="small-12 large-8 columns page-content">
+<header class="donate-thanks">
+   &nbsp;
+</header>
 
-<p>Thank you very much for your support!</p>
-
-<p>I literally work every day to make Xpiks better. Every single contribution, regardless of it's size, helps me!</p>
-
-<p>I have already spend a lot of time developing Xpiks and you have helped me to be on the track.</p>
-
-<p><strong>Many thanks!</strong></p>
-
+<section>
+  <div class="row">
+    <div class="small-12">
+      <div class="single-post">
+        <div class="post-item">
+          <p>You just helped me to be on the track to improving and developing Xpiks!</p>
+         </div>
+        </div>
+      </div>
+    </div>
 </section>
-</article>
