@@ -1,6 +1,6 @@
-- title: "Donate"
-  href: "/donatecampaign/"
-  gold: true
+#- title: "Donate"
+#  href: "/donatecampaign/"
+#  gold: true
 
 - title: "Tutorials"
   href: "/tutorials/"
