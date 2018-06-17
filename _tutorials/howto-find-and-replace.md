@@ -12,7 +12,7 @@ Usually if you need to edit multiple files at once you would use <a href="{{site
 
 <br />
 
-You have an option to find (and replace) selectively in Description, Title or Keywords as well as do case-sensitive search (where `"Word"` is not equal to `"word"`) and to match whole words only (that is searching for `"sun"` will not find `"sunny"` but will find only `"sun"`).
+You have an option to find (and replace) selectively in Description, Title or Keywords as well as do <i>case-sensitive search</i> (where `"Word"` is not equal to `"word"`) and to match <i>whole words only</i> (that is searching for `"sun"` will not find `"sunny"` but will find only `"sun"`).
 
 After you typed in what you're looking for and configured search options, you can hit "Find and replace" button. Xpiks will present you <strong>a preview of what will change</strong> before actually doing a replace. Here you can refine the replacement by selecting artworks which will be affected.
 
@@ -23,3 +23,7 @@ After you typed in what you're looking for and configured search options, you ca
 <br />
 
 Also all the matches are highlighted so you can be sure not to replace anything that you don't want to replace.
+
+<br />
+
+However if you need just to find artworks better use <a href="{{site.url}}/tutorials/interface-filtering/">filtering</a> instead.
