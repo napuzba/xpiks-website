@@ -6,6 +6,8 @@ order: 5
 
 Usually if you need to edit multiple files at once you would use <a href="{{site.url}}/tutorials/batch-basic/">batch editing</a> but if you need to quickly replace something in Keywords, Title or Description, Find And Replace might be handy.
 
+Hit `Ctrl+Shift+F` (`Cmd+Shift+F` on Mac) or main menu _Edit -> Find and replace_ and you will see this:
+
 <p>
   <img alt="Find and replace" src="{{site.url}}/images/tutorials/howto/find-and-replace.png" class="small-12 large-12" />
 </p>
@@ -22,7 +24,7 @@ After you typed in what you're looking for and configured search options, you ca
 
 <br />
 
-Also all the matches are highlighted so you can be sure not to replace anything that you don't want to replace.
+Also all the matches are highlighted so you can be sure not to replace anything that you don't want to replace. Also keep in mind that Xpiks will search only in currently filtered artworks.
 
 <br />
 
