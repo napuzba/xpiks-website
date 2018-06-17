@@ -9,11 +9,11 @@ This is the list of hotkeys available in Xpiks for Windows and Linux (for Mac yo
 #### Main window
 
 * `Ctrl + Q` - Quit App
-* `Ctrl + O` - Open files
+* `Ctrl + O` - <a href="{{site.url}}/tutorials/intro-adding-files/">Open files</a>
 * `Ctrl + E` - Edit selected artworks (you have to select first)
-* `Ctrl + S` - Save selected artworks
+* `Ctrl + S` - <a href="{{site.url}}/tutorials/intro-saving/">Save selected artworks</a>
 * `Ctrl + Del` - Remove selected artworks
-* `Shift + Ctrl + F` - Find and Replace
+* `Shift + Ctrl + F` - <a href="{{site.url}}/tutorials/howto-find-and-replace/">Find and Replace</a>
 * `Shift + Ctrl + U` - Upload selected artworks
 * `Shift + Ctrl + L` - Show logs
 
