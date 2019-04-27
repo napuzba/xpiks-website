@@ -30,4 +30,4 @@ Detailed upload logging saves the dialog between Xpiks and remote server. This d
 
 <br />
 
-Please keep in mind that Xpiks strips all sensitive data like passwords from detailed FTP logging. Read more about <a href="{{site.url}}/2016/01/13/ftp-and-security/">FTP security</a> in blog.
+Please keep in mind that Xpiks strips all sensitive data like passwords from detailed FTP logging. Read more about <a href="{{site.url}}/blog/2016/ftp-and-security">FTP security</a> in blog.
