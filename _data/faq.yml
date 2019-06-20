@@ -1,6 +1,6 @@
 - title: 'All .xpks files are gone'
   content: >
-    Xpiks used to save temporary backups in <a href="http://xpiksapp.com/blog/2015/what-are-xpks">.xpks files</a>. As of version 1.5 and highter this is no longer the case as backups are saved in one local database instead of multiple files. So don't worry if they are gone, your data is still securely saved in images/video and backed up as you work.
+    Xpiks used to save temporary backups in <a href="http://xpiksapp.com/blog/2015/what-are-xpks">.xpks files</a>. As of version 1.5 and higher this is no longer the case as backups are saved in one local database instead of multiple files. So don't worry if they are gone, your data is still securely saved in images/video and backed up as you work.
 
 - title: 'Uploaded videos do not contain Keywords and Description'
   content: >
@@ -34,7 +34,7 @@
 
 - title: 'Replace misspelled keywords does nothing'
   content: >
-    If you happen to have two keywords in your list, say, <i>"colour"</i> and <i>"color"</i> and then you hit "Fix spelling", select <i>"colour"</i> -> <i>"colour"</i> and hit "Replace". When Xpiks tries to replace <i>"colour"</i> to <i>"colour"</i> (as you chose) it sees that you already have <i>"color"</i> and replacement will create two <i>"colour"</i> keywords. There is an ambiguity in this situation since it's not clear if you were to remove the misspelled word or the original duplicate of it so Xpiks leaves everything as is.
+    If you happen to have two keywords in your list, say, <i>"colour"</i> and <i>"color"</i> and then you hit "Fix spelling", select <i>"colour"</i> -> <i>"color"</i> and hit "Replace". When Xpiks tries to replace <i>"colour"</i> to <i>"color"</i> (as you chose) it sees that you already have <i>"color"</i> and replacement will create two <i>"color"</i> keywords. There is an ambiguity in this situation since it's not clear if you were to remove the misspelled word or the original duplicate of it so Xpiks leaves everything as is.
 
 - title: 'Xpiks closes shortly after start in Windows'
   content: >
