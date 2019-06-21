@@ -15,9 +15,9 @@ Major change in Xpiks 1.5.3 is full vector support without preview. Now you can 
   <img alt="Vector" src="{{site.url}}/images/posts/xpiks-153-overview/vector.png" class="small-12 large-12" />
 </p>
 
-If Xpiks cannot find a preview, it will show artwork thumbnail as black. However, you still can add metadata to the vector and Xpiks will embed it into vector same way as it works with images.
+If Xpiks cannot find a preview, it will show artwork thumbnail as black. However, you still can add metadata to the vector and Xpiks will embed it into vector same way as it works with images. If you have vector+preview pair, Xpiks will write metadata to both of them so they will be accepted to other microstocks as before.
 
-Also Xpiks now allows uploading vectors without previews (inside zip archives or standalone) which should allow to upload to Shutterstock without issues.
+Also Xpiks now allows uploading vectors without previews (inside zip archives or standalone) which should allow to upload to Shutterstock and other stocks with similar requirements without issues.
 
 ## Preset groups
 
