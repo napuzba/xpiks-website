@@ -4,7 +4,7 @@ topic: "keywording"
 order: 1
 ---
 
-The simliest way to fill-in keywords to an artwork is just to type them. When you finish typing the keyword you can press Comma (",") or Enter and what you wrote will be displayed as a separate keyword.
+The most simple way to add keywords to an artwork is just to type them. When you finish typing the keyword you can press Comma (",") or Enter and what you wrote will be displayed as a separate keyword.
 
 <p>
   <img alt="Basic keywording" src="{{site.url}}/images/tutorials/keywording/keywords-comma.gif" class="small-12 large-12" />
