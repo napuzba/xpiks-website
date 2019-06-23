@@ -45,17 +45,27 @@ Small but so asked for improvement in Xpiks. Now you can select multiple images 
 
 ## Keywords suggestion changes
 
-Fotolia [has been asquired by Adobe Stock](https://blog.fotolia.com/us/2018/11/05/fotolia-members-welcome-to-adobe-stock/) and recently they discontinued different developer APIs that transitioned under Adobe. In this release Xpiks switches to Adobe Stock keywords suggestion and disables Fotolia.
+Fotolia [has been acquired by Adobe Stock](https://blog.fotolia.com/us/2018/11/05/fotolia-members-welcome-to-adobe-stock/) and recently they discontinued different developer APIs that transitioned under Adobe. In this release Xpiks switches to Adobe Stock keywords suggestion and disables Fotolia.
 
 Also iStock/Getty images discontinued API for developers so Xpiks will not provide keywords suggestion from iStock anymore.
+
+## Combined editing
+
+Combined editing is a fastrack that allows you to apply changes to multiple files at the same time. There's an important enchancement made to it in order to prevent accidental rewrites. Now if you combine several artworks that have different title and description, by default Xpiks will use [partial changes]({{site.url}}/tutorials/batch-partial/) to only append new keywords. Title and Description will be disabled.
+
+<p>
+  <img alt="Combined" src="{{site.url}}/images/posts/xpiks-153-overview/combined.png" class="small-12 large-12" />
+</p>
+
+<br />
 
 ## Smaller changes
 
 * Shutterstock keywords suggestion now also includes editorial images
-* Fix issue in CSV format to be compatible with Shutterstock
-* Imrove FTP upload speed
-* Remove warnings about duplicates in Title and Description
-* Fix thumbnails loading from end in keywords suggestion
+* Fixed issue in CSV format to be compatible with Shutterstock
+* FTP upload speed improved
+* Removed warnings about duplicates in Title and Description
+* Fixed thumbnails loading from end in keywords suggestion
 * Artwork navigation shortcuts changed in single editing view
 
 ## What's next
