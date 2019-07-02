@@ -2,7 +2,6 @@
 layout: post
 title: "Xpiks 1.5.3 released"
 date: 2019-06-20T21:24:43-08:00
-published: false
 ---
 
 It is my pleasure to announce that Xpiks 1.5.3 has been released! It incorporates a year long of improvements, small features and bugfixes. While all efforts in the development were mostly concentrated around Xpiks 1.6 major release, some recent events forced release of a smaller update in 1.5 branch. Major one was that [Shutterstock changed vector upload requirements](https://forums.submit.shutterstock.com/topic/96928-shutterstock-has-made-uploading-vectors-easier-than-ever/) and others considerably smaller issues in Xpiks.
