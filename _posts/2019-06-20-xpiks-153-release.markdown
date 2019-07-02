@@ -50,7 +50,7 @@ Also iStock/Getty images discontinued API for developers so Xpiks will not provi
 
 ## Combined editing
 
-Combined editing is a fastrack that allows you to apply changes to multiple files at the same time. There's an important enchancement made to it in order to prevent accidental rewrites. Now if you combine several artworks that have different title and description, by default Xpiks will use [partial changes]({{site.url}}/tutorials/batch-partial/) to only append new keywords. Title and Description will be disabled.
+[Combined editing]({{site.url}}/tutorials/batch-basic/) is a fastrack that allows you to apply changes to multiple files at the same time. There's an important enchancement made to it in order to prevent accidental rewrites. Now if you combine several artworks that have different title and description, by default Xpiks will use [partial changes]({{site.url}}/tutorials/batch-partial/) to only append new keywords. Title and Description will be disabled.
 
 <p>
   <img alt="Combined" src="{{site.url}}/images/posts/xpiks-153-overview/combined.png" class="small-12 large-12" />
