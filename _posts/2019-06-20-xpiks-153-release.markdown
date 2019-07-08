@@ -66,6 +66,7 @@ Also iStock/Getty images discontinued API for developers so Xpiks will not provi
 * Removed warnings about duplicates in Title and Description
 * Fixed thumbnails loading from end in keywords suggestion
 * Artwork navigation shortcuts changed in single editing view
+* Ability to open file with default application
 
 ## What's next
 
