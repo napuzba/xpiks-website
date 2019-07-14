@@ -19,7 +19,8 @@ This is the list of hotkeys available in Xpiks for Windows and Linux (for Mac yo
 
 #### Single editing view
 
-* `Ctrl + Alt + Arrow Left/Right` - move to left/right artwork
+* `Ctrl + Up/Down` - move to left/right artwork
+* `Ctrl + Alt + Arrow Left/Right` - move to left/right artwork (legacy)
 
 #### Keywords editing
 
