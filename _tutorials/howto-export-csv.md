@@ -46,4 +46,6 @@ If you need Xpiks to create a column with no value inside (for you to fill it in
 
 <br />
 
-**Important** Keep in mind that you have to use property **UploadFilename** instead of **Filename** for video files upload and CSV generation. Some microstocks have issues with filenames that contain spaces or special characters. During upload Xpiks normalizes the filename (replaces special characters) so you will upload without troubles. But since the uploaded filename will be different, you will need to use same names in CSV in order for it to be accepted.
+### Video upload
+
+Keep in mind that you have to use property **[UploadFilename]** instead of [Filename] for video files upload and CSV generation. Some microstocks have issues with filenames that contain spaces or special characters. During upload Xpiks normalizes the filename (replaces special characters) so you will upload without troubles. But since the uploaded filename will be different, you will need to use same names in CSV in order for it to be accepted.
