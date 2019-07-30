@@ -1,3 +1,7 @@
+- title: 'Xpiks window is black on macOS'
+  content: >
+    There's a known issue in macOS below 10.14.4 that causes certain application to show up as black. In order to fix this consider upgrading to 10.14.4 or fresher version of macOS.
+
 - title: 'All .xpks files are gone'
   content: >
     Xpiks used to save temporary backups in <a href="http://xpiksapp.com/blog/2015/what-are-xpks">.xpks files</a>. As of version 1.5 and higher this is no longer the case as backups are saved in one local database instead of multiple files. So don't worry if they are gone, your data is still securely saved in images/video and backed up as you work.
