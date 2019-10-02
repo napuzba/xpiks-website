@@ -1,0 +1,3 @@
+baseURL      = "https://xpiksapp.com/"
+languageCode = "en-us"
+title        = "Application for keywording and uploading to microstocks"
