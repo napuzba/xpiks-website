@@ -4,10 +4,12 @@
   {{ partial "site-head.html" . }}
 </head>
 <body>
-{{ partial "site-navigation.html" . }}
-{{ block "main" . }}{{ end }}
-{{ partial "site-footer.html" . }}
-{{ partial "site-scripts.html" . }}
+<main class="wrap">
+  {{- partial "site-navigation.html" . -}}
+  <div class="main-content"> {{block "main" . }}{{ end }} </div>
+  {{- partial "site-footer.html" . -}}
+  {{- partial "site-scripts.html" .  -}}
+</main>
 </body>
 </html>
 
