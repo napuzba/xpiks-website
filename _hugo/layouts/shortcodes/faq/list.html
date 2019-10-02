@@ -1,0 +1,17 @@
+<div class="row section-default">
+  <div class="small-12 ">
+    <div class="faq-wrapper">
+      {{range $item := $.Site.Data.faq -}}
+      <article class="faq-item">
+        <div class="faq-item-title">
+          <div class="faq-item-icon"> <svg xmlns="http://www.w3.org/2000/svg" width="11" height="18"><path fill="none" fill-rule="evenodd" stroke="#00B9BD" stroke-width="3" d="M1 1.929L8.071 9 1 16.071"/></svg> </div>
+          <strong>{{safeHTML $item.title}}</strong>
+        </div>
+        <div class="faq-item-content">
+          {{safeHTML $item.content }}
+        </div>
+      </article>
+      {{ end }}
+    </div>
+  </div>
+</div>

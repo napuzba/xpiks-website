@@ -1,0 +1,24 @@
+<div class="navbar">
+  <div class="row">
+    <div class="columns large-2 show-for-large-up">
+      <a class="navbar-logo" href='{{ "/" | relURL }}'>
+        <img src='{{ "/images/logo.png" | relURL }}' alt="xpiks">
+      </a>
+    </div>
+    <nav id="nav" class="columns small-12 large-10">
+      <a class="navbar-logo-mobile hide-for-large-up" href='{{ "/" | relURL }}'>
+        <img src='{{ "/images/logo.png" | relURL }}' alt="xpiks">
+      </a>
+      <label for="toggle-checkbox" id="toggle-menu" ></label>
+      <input type="checkbox" id="toggle-checkbox">
+      <ul class="primary-nav">
+      {{- range $nav := $.Site.Data.nav }}
+        <li {{- if hasPrefix $.Permalink (absURL $nav.href) }} class="active"
+            {{- else if $nav.highlight                      }} class="highlight"
+            {{- else if $nav.gold                           }} class="highlight-gold" {{- end -}}> <a href="{{ $nav.href | relURL }}">{{ $nav.title }}</a> </li>
+      {{- end }}
+      </ul>
+    </nav>
+  </div>
+</div>
+

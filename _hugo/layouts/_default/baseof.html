@@ -1,13 +1,13 @@
 <!DOCTYPE html>
 <html lang="{{ $.Site.LanguageCode | default "en" }}">
 <head>
-{{ partial "head.html" }}
+{{ partial "site-head.html" }}
 </head>
 <body>
-{{ partial "navigation.html" . }}
+{{ partial "site-navigation.html" . }}
 {{ block "main" . }}{{ end }}
-{{ partial "footer.html" . }}
-{{ partial "scripts.html" . }}
+{{ partial "site-footer.html" . }}
+{{ partial "site-scripts.html" . }}
 </body>
 </html>
 
