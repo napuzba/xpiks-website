@@ -1,0 +1,22 @@
+<footer class="site-footer">
+<div class="row">
+  <div class="small-12 large-7 columns col-right">
+    <nav class="footer-nav">
+      <ul>
+        {{- range $item := $.Site.Data.navFooter }}
+        <li {{if hasPrefix $.Permalink (absURL $item.href) -}} class="active" {{ end }}>
+          {{- if or ( hasPrefix $item.href  "http://" ) (hasPrefix $item.href "https://" ) -}}
+            <a href="{{$item.href}}">{{$item.title}}</a>
+          {{- else -}}
+            <a href="{{$item.href | relURL}}">{{$item.title}}</a>
+          {{- end -}}
+        </li>
+        {{- end}}
+      </ul>
+    </nav>
+  </div>
+  <div class="small-12 large-5 columns">
+    <span class="darkgray">&copy; 2014-{{ dateFormat "2006" now  }} Taras Kushnir</span>
+  </div>
+</div>
+</footer>
