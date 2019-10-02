@@ -1,5 +1,5 @@
 ---
-title : "Xpiks is a free and open source keywording and uploading tool"
+Title : Support
 ---
 
 {{< support/header >}}

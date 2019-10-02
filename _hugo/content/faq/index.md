@@ -1,5 +1,5 @@
 ---
-title : "FAQ"
+Title : "FAQ"
 ---
 
 {{< faq/header >}}
