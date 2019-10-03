@@ -1,5 +1,6 @@
 ---
 Title: About us
+Layout : page
 ---
 
 {{< header >}}

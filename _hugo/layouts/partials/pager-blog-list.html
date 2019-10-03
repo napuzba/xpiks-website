@@ -1,0 +1,8 @@
+{{- $pager := $.Scratch.Get "pager" -}}
+{{- if $pager.HasPrev -}} {{- $.Scratch.Set "prevPageLink" $pager.Prev.URL -}} {{ else }} {{- $.Scratch.Set "prevPageLink" nil -}} {{ end }}
+{{- if $pager.HasNext -}} {{- $.Scratch.Set "nextPageLink" $pager.Next.URL -}} {{ else }} {{- $.Scratch.Set "nextPageLink" nil -}} {{ end }}
+<div class="row signle-post-pagination-wrapper">
+  <div class="small-12">
+  {{ partial "pager" . }}
+  </div>
+</div>

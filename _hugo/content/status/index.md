@@ -1,5 +1,6 @@
 ---
 Title: Status
+Layout: page
 ---
 
 {{< header >}}

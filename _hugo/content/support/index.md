@@ -1,5 +1,6 @@
 ---
-Title : Support
+Title: Support
+Layout: page
 ---
 
 {{< support/header >}}

@@ -1,5 +1,6 @@
 ---
 Title: "Productivity plugin overview"
+Layout : page
 ---
 
 {{< header >}}
