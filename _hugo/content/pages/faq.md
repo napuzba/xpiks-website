@@ -1,5 +1,7 @@
 ---
-Title : "FAQ"
+layout : "page"
+title : "FAQ"
+url: "/faq/"
 ---
 
 {{< faq/header >}}

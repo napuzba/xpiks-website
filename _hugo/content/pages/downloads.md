@@ -1,6 +1,7 @@
 ---
-Title: downloads
-Layout : page
+layout : "page"
+title: Downloads
+url: "/downloads/"
 ---
 
 <header class="page-header">

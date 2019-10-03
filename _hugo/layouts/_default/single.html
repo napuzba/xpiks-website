@@ -1,5 +1,8 @@
 {{ define "main" }}
     {{ if (eq $.Type "blog") }}
+        {{- $.Scratch.Set "free_download" true -}}
+        {{- $.Scratch.Set "free_download_class" "section-grey" -}}
+
         <div class="row">
             <div class="small-12">
                 <!-- single post -->
@@ -17,8 +20,7 @@
                 <!-- /single post -->
             </div>
         </div>
+
         {{ partial "pager-blog" . }}
-    {{ else }}
-        {{- .Content -}}
     {{ end }}
 {{ end }}

@@ -1,6 +1,7 @@
 ---
-Title: Support
-Layout: page
+layout : "page"
+title: Support
+url: "/support/"
 ---
 
 {{< support/header >}}

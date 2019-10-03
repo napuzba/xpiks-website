@@ -1,6 +1,7 @@
 ---
-Title: "Productivity plugin overview"
-Layout : page
+layout : "page"
+title: "Productivity plugin overview"
+url: "/mg-plugin/"
 ---
 
 {{< header >}}

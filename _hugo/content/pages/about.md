@@ -1,6 +1,7 @@
 ---
-Title: About us
-Layout : page
+layout : "page"
+title: "About us"
+url : "/about/"
 ---
 
 {{< header >}}

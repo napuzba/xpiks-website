@@ -1,6 +1,7 @@
 ---
-Title: Status
-Layout: page
+layout : "page"
+title: Status
+url: "/status/"
 ---
 
 {{< header >}}
