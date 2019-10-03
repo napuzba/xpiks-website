@@ -5,7 +5,7 @@ date: 2019-08-10T11:13:02-08:00
 ---
 
 <p>
-  <img alt="Holiday" src="{{site.url}}/images/posts/seasonal-sales/card-celebration-christmas-707197.jpg" class="small-12 large-12" />
+  <img alt="Holiday" src='{{< misc/rel "/images/posts/seasonal-sales/card-celebration-christmas-707197.jpg" >}}' class="small-12 large-12" />
 </p>
 
 Nothing screams lack of preparation louder than you uploading your stock images when the festivities have already started. You will sell lesser content because buyers normally prefer choosing the images they intend to use during the festivities early on. How then do you plan for the festivities when they are three to four months away and produce the best photos and videos? This article gives some pointers you should consider.
@@ -21,7 +21,7 @@ Nothing screams lack of preparation louder than you uploading your stock images 
 <br />
 
 <p>
-  <img alt="Trends" src="{{site.url}}/images/posts/seasonal-sales/chart-colorful-colors-1076812.jpg" class="small-12 large-12" />
+  <img alt="Trends" src='{{< misc/rel "/images/posts/seasonal-sales/chart-colorful-colors-1076812.jpg" >}}' class="small-12 large-12" />
 </p>
 
 With that in mind, its time you crafted a plan for your next holiday shoot. Assuming that your window period is ideal and you start shooting; make sure you do so with a creative plan. Also, consider the following tricks to maximize your sales:

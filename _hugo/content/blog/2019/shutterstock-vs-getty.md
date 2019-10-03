@@ -5,7 +5,7 @@ date: 2019-07-14T18:43:05-08:00
 ---
 
 <p>
-  <img alt="Way" src="{{site.url}}/images/posts/shutt-vs-istock/asphalt-empty-field-163444.jpg" class="small-12 large-12" />
+  <img alt="Way" src='{{< misc/rel "/images/posts/shutt-vs-istock/asphalt-empty-field-163444.jpg" >}}' class="small-12 large-12" />
 </p>
 
 The microstocks market is changing at a fast speed, and if you want to succeed, you’ll have to keep up with the trends. The stiff competition in the photography industry is not making it easier. If you want your images to get accepted and boost your sales, you must shoot and submit high-quality photos.

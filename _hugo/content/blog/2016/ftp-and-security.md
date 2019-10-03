@@ -4,7 +4,7 @@ title: "Security of uploading artworks to microstocks"
 date: 2016-01-13T22:26:12+02:00
 ---
 
-<img alt="FTP security?" src="{{site.url}}/images/globe2.jpg" class="small-12 large-8" />
+<img alt="FTP security?" src='{{< misc/rel "/images/globe2.jpg" >}}' class="small-12 large-8" />
 
 When you use software to upload files to microstocks FTP servers you must enter your username and password into software you use. You can easily end up with a question if you can trust this software. It's even more naturally to ask this kindof questions if this software is not open source. You don't know what's going on inside with your valuable data.
 

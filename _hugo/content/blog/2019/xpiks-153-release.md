@@ -11,7 +11,7 @@ It is my pleasure to announce that Xpiks 1.5.3 has been released! It incorporate
 Major change in Xpiks 1.5.3 is full vector support without preview. Now you can open, add metadata and upload vectors without need to have a preview for it.
 
 <p>
-  <img alt="Vector" src="{{site.url}}/images/posts/xpiks-153-overview/vector.png" class="small-12 large-12" />
+  <img alt="Vector" src='{{< misc/rel "/images/posts/xpiks-153-overview/vector.png" >}}' class="small-12 large-12" />
 </p>
 
 If Xpiks cannot find a preview, it will show artwork thumbnail as black. However, you still can add metadata to the vector and Xpiks will embed it into vector same way as it works with images. If you have vector+preview pair, Xpiks will write metadata to both of them so they will be accepted to other microstocks as before.
@@ -23,7 +23,7 @@ Also Xpiks now allows uploading vectors without previews (inside zip archives or
 Since introduction of presets in Xpiks it became one of the users' favorite features. After introducing preset groups in version 1.5 Xpiks lacked one obvious feature: preset group management. This release adds such functionality.
 
 <p>
-  <img alt="Preset groups" src="{{site.url}}/images/posts/xpiks-153-overview/preset-groups.png" class="small-12 large-12" />
+  <img alt="Preset groups" src='{{< misc/rel "/images/posts/xpiks-153-overview/preset-groups.png" >}}' class="small-12 large-12" />
 </p>
 
 <br />
@@ -37,7 +37,7 @@ Also Xpiks has translation dictionaries support but before this release you coul
 Small but so asked for improvement in Xpiks. Now you can select multiple images with `Shift + mouse click` in main window.
 
 <p>
-  <img alt="Multiselect" src="{{site.url}}/images/posts/xpiks-153-overview/multiselect.gif" class="small-12 large-12" />
+  <img alt="Multiselect" src='{{< misc/rel "/images/posts/xpiks-153-overview/multiselect.gif" >}}' class="small-12 large-12" />
 </p>
 
 <br />
@@ -53,7 +53,7 @@ Also iStock/Getty images discontinued API for developers so Xpiks will not provi
 [Combined editing]({{site.url}}/tutorials/batch-basic/) is a fastrack that allows you to apply changes to multiple files at the same time. There's an important enchancement made to it in order to prevent accidental rewrites. Now if you combine several artworks that have different title and description, by default Xpiks will use [partial changes]({{site.url}}/tutorials/batch-partial/) to only append new keywords. Title and Description will be disabled.
 
 <p>
-  <img alt="Combined" src="{{site.url}}/images/posts/xpiks-153-overview/combined.png" class="small-12 large-12" />
+  <img alt="Combined" src='{{< misc/rel "/images/posts/xpiks-153-overview/combined.png" >}}' class="small-12 large-12" />
 </p>
 
 <br />

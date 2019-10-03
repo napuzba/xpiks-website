@@ -12,7 +12,7 @@ To report a bug, please do the following steps:
 <h3>1. Open <a href="{{ site.url }}/support/">Support page</a>, post a new topic there</h3>
 
 <p>
-  <img alt="New Topic" src="{{site.url}}/images/posts/support-new-topic.png" class="small-12 large-12" />
+  <img alt="New Topic" src='{{< misc/rel "/images/posts/support-new-topic.png" >}}' class="small-12 large-12" />
 </p>
 
 <h3>2. Describe what do you observe and why it's a bug</h3>
@@ -26,19 +26,19 @@ Xpiks logs diagnostic information while it works so this information can help la
 In order to find the logs through Xpiks, go to _Tools -> Advanced -> Show logs_. 
 
 <p>
-  <img alt="Show logs" src="{{site.url}}/images/posts/show-logs-menu.png" class="small-12 large-12" />
+  <img alt="Show logs" src='{{< misc/rel "/images/posts/show-logs-menu.png" >}}' class="small-12 large-12" />
 </p>
 
 There you can click **Reveal logfile**. This will open logs directory in the file manager (e.g. Finder or Explorer) and select logfile from the current session in Xpiks.
 
 <p>
-  <img alt="Reveal logfile" src="{{site.url}}/images/posts/reveal-logs.png" class="small-12 large-12" />
+  <img alt="Reveal logfile" src='{{< misc/rel "/images/posts/reveal-logs.png" >}}' class="small-12 large-12" />
 </p>
 
 If it was _past session_ when you experienced problems then select _other file_ than is currently selected. Each logfile has a date and a time in the name of file so it helps to select a logfile from the session when you experienced issues with Xpiks. It might help to sort files by date. _If you're not sure which logs to choose, get few of them._
 
 <p>
-  <img alt="Select logfile" src="{{site.url}}/images/posts/select-logfile.png" class="small-12 large-12" />
+  <img alt="Select logfile" src='{{< misc/rel "/images/posts/select-logfile.png" >}}' class="small-12 large-12" />
 </p>
 
 If you cannot open logs location from Xpiks, you can find the on disk in one of the following locations:

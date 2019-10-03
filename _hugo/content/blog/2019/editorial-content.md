@@ -5,7 +5,7 @@ date: 2019-09-10T11:07:41-08:00
 ---
 
 <p>
-  <img alt="Editorial content" src="{{site.url}}/images/posts/editorial-content/actress-adult-attractive-276046.jpg" class="small-12 large-12" />
+  <img alt="Editorial content" src='{{< misc/rel "/images/posts/editorial-content/actress-adult-attractive-276046.jpg" >}}' class="small-12 large-12" />
 </p>
 
 When it comes to image submission and buying on microstocks, many people have a hard time understanding the difference between editorial and royalty-free images. However, you can differentiate them by understanding their particular uses.
@@ -25,7 +25,7 @@ Just like the name suggests, you can only use editorial content for editorial pu
 - Newspapers, magazines, newsletters, and editorials
 
 <p>
-  <img alt="Cadets" src="{{site.url}}/images/posts/editorial-content/air-force-army-cadets-270024.jpg" class="small-12 large-12" />
+  <img alt="Cadets" src='{{< misc/rel "/images/posts/editorial-content/air-force-army-cadets-270024.jpg" >}}' class="small-12 large-12" />
 </p>
 
 When uploading editorial content, be aware that it won’t be used for any commercial or advertorial purposes. This means your images won’t appear on brand or product names whereby you can receive fees from sponsors or a third party advisor. These images include photos of real-world subjects such as:
@@ -54,7 +54,7 @@ The availability of editorial images is limited due to the complicated buying pr
 ### Why You Shouldn’t Tire from Submitting Editorial Images
 
 <p>
-  <img alt="Auditorium" src="{{site.url}}/images/posts/editorial-content/audience-auditorium-chairs-1709003.jpg" class="small-12 large-12" />
+  <img alt="Auditorium" src='{{< misc/rel "/images/posts/editorial-content/audience-auditorium-chairs-1709003.jpg" >}}' class="small-12 large-12" />
 </p>
 
 Despite the limited usage licensing, there’re many benefits of submitting editorial images. These include:

@@ -4,7 +4,7 @@ title: "How to zip vectors and previews"
 date: 2016-02-28T21:31:48+02:00
 ---
 
-<img alt="Generating archives" src="{{site.url}}/images/posts/GenerateArchives.jpg" class="small-12 large-12" />
+<img alt="Generating archives" src='{{< misc/rel "/images/posts/GenerateArchives.jpg" >}}' class="small-12 large-12" />
 
 Artists who draw illustrations and sell them at several microstocks sometimes need to create archives with vectors and previews. For example, Fotolia, Depositphotos and CanStockPhoto require vector and preview to be in .zip archive.
 

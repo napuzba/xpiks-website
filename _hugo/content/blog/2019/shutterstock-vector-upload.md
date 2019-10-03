@@ -5,7 +5,7 @@ date: 2019-07-13T14:45:21-08:00
 ---
 
 <p>
-  <img alt="Adobe" src="{{site.url}}/images/posts/vector-rules/adobe-photoshop-data-desk-693892.jpg" class="small-12 large-12" />
+  <img alt="Adobe" src='{{< misc/rel "/images/posts/vector-rules/adobe-photoshop-data-desk-693892.jpg" >}}' class="small-12 large-12" />
 </p>
 
 Vector illustrations submission process to microstocks is usually different than for photos. Majority of the microstock websites like Shutterstock, Depositphotos, Adobe Stock and others required to submit vector files (EPS or AI) together with preview (JPG) for that vector. If you wanted to get your metadata (like keywords, description) automatically read by the microstock website you had to embed it into the preview. From now on, this is not the case for Shutterstock.

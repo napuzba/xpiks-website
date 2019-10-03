@@ -13,7 +13,7 @@ You can launch Xpiks in "portable" mode by adding `--portable` argument to it. T
 Right-click "Xpiks.exe" and select "Create shortcut". It will create a shortcut file next to the application.
 
 <p>
-  <img alt="Create shortcut" src="{{site.url}}/images/tutorials/miscellaneous/create-shortcut.png" class="small-12 large-12" />
+  <img alt="Create shortcut" src='{{< misc/rel "/images/tutorials/miscellaneous/create-shortcut.png" >}}' class="small-12 large-12" />
 </p>
 
 <br />
@@ -23,7 +23,7 @@ Right-click "Xpiks.exe" and select "Create shortcut". It will create a shortcut 
 Right-click shortcut file in Explorer and click "Properties". Add `--portable` inside `Target` field (don't forget to have a space between "Xpiks.exe" and `--portable`).
 
 <p>
-  <img alt="Create shortcut" src="{{site.url}}/images/tutorials/miscellaneous/portable-option.png" class="small-12 large-12" />
+  <img alt="Create shortcut" src='{{< misc/rel "/images/tutorials/miscellaneous/portable-option.png" >}}' class="small-12 large-12" />
 </p>
 
 <br />
@@ -33,7 +33,7 @@ Right-click shortcut file in Explorer and click "Properties". Add `--portable` i
 Double click shortcut file to open Xpiks. Now Xpiks will store settings in the same directory where it is "installed". You will see a new directory called "settings".
 
 <p>
-  <img alt="Portable settings" src="{{site.url}}/images/tutorials/miscellaneous/settings-dir.png" class="small-12 large-12" />
+  <img alt="Portable settings" src='{{< misc/rel "/images/tutorials/miscellaneous/settings-dir.png" >}}' class="small-12 large-12" />
 </p>
 
 <br />

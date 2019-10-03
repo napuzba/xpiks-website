@@ -5,7 +5,7 @@ date: 2019-07-14T19:00:10-08:00
 ---
 
 <p>
-  <img alt="Legal" src="{{site.url}}/images/posts/licensing-models/close-up-document-fountain-pen-48148.jpg" class="small-12 large-12" />
+  <img alt="Legal" src='{{< misc/rel "/images/posts/licensing-models/close-up-document-fountain-pen-48148.jpg" >}}' class="small-12 large-12" />
 </p>
 
 Understanding the nuances of Microstock licensure is crucial if you seek to optimize your workflow and profits as a stock photography contributor. As the Microstock industry evolves new models for selling the rights to your stock images emerge. 

@@ -8,10 +8,10 @@ I'm proud to announce Xpiks 1.5 release! This is a major release which took almo
 
 ## Interface
 
-Keeping in pace with <a href="{{site.url}}/2017/02/24/xpiks-14-detailed-features/">previous release</a> this one also brings many UI changes and improvements. Most notable ones are updated experience of <a href="{{site.url}}/tutorials/interface-mainview/">main actions</a>
+Keeping in pace with <a href='{{< misc/rel "/2017/02/24/xpiks-14-detailed-features/" >}}'>previous release</a> this one also brings many UI changes and improvements. Most notable ones are updated experience of <a href='{{< misc/rel "/tutorials/interface-mainview/" >}}'>main actions</a>
 
 <p>
-  <img alt="Toolbar" src="{{site.url}}/images/tutorials/interface/mainview-toolbar.png" class="small-12 large-12" />
+  <img alt="Toolbar" src='{{< misc/rel "/images/tutorials/interface/mainview-toolbar.png" >}}' class="small-12 large-12" />
 </p>
 
 <br />
@@ -19,7 +19,7 @@ Keeping in pace with <a href="{{site.url}}/2017/02/24/xpiks-14-detailed-features
 and improved experience with many dialogs with the lists
 
 <p>
-  <img alt="Upload view" src="{{site.url}}/images/tutorials/interface/upload.png" class="small-12 large-12" />
+  <img alt="Upload view" src='{{< misc/rel "/images/tutorials/interface/upload.png" >}}' class="small-12 large-12" />
 </p>
 
 <br />
@@ -29,7 +29,7 @@ and improved experience with many dialogs with the lists
 Yes, now you can edit and upload video files just as photos and vectors! You will see a small icon saying that it's video in the corner.
 
 <p>
-  <img alt="Video files support" src="{{site.url}}/images/posts/xpiks-15-overview/video-files.png" class="small-12 large-12" />
+  <img alt="Video files support" src='{{< misc/rel "/images/posts/xpiks-15-overview/video-files.png" >}}' class="small-12 large-12" />
 </p>
 
 <br />
@@ -37,22 +37,22 @@ Yes, now you can edit and upload video files just as photos and vectors! You wil
 Although most microstocks do not read metadata from video files as of today, they will do that in not so distant future. Xpiks not only writes metadata to video files, but also it provides options to **export metadata CSV** (comma-separated values file) for microstocks which do not read it from video files. This functionality is available from main menu _Edit -> Selected artworks -> Export to CSV_ as well as from the actions toolbar in the main window.
 
 <p>
-  <img alt="CSV export" src="{{site.url}}/images/posts/xpiks-15-overview/csv-export.png" class="small-12 large-12" />
+  <img alt="CSV export" src='{{< misc/rel "/images/posts/xpiks-15-overview/csv-export.png" >}}' class="small-12 large-12" />
 </p>
 
 <br />
 
 ## Presets improvements
 
-One of the huge improvements for presets is that now it's possible to categorize them to groups which will be visible in the context menu. You can read more about that in <a href="{{site.url}}/tutorials/presets-groups/">Preset Groups Tutorial</a>.
+One of the huge improvements for presets is that now it's possible to categorize them to groups which will be visible in the context menu. You can read more about that in <a href='{{< misc/rel "/tutorials/presets-groups/" >}}'>Preset Groups Tutorial</a>.
 
 <p>
-  <img alt="Presets groups" src="{{site.url}}/images/tutorials/presets/groups.gif" class="small-12 large-12" />
+  <img alt="Presets groups" src='{{< misc/rel "/images/tutorials/presets/groups.gif" >}}' class="small-12 large-12" />
 </p>
 
 <br />
 
-Also now you can autocomplete presets in keywords field when you type along with keywords or separately. You can read more about that in <a href="{{site.url}}/tutorials/presets-autocomplete/">Preset Autocomplete Tutorial</a>.
+Also now you can autocomplete presets in keywords field when you type along with keywords or separately. You can read more about that in <a href='{{< misc/rel "/tutorials/presets-autocomplete/" >}}'>Preset Autocomplete Tutorial</a>.
 
 <br />
 
@@ -61,7 +61,7 @@ Also now you can autocomplete presets in keywords field when you type along with
 Want to continue working where you left last time when you opened Xpiks? Now this is possible! Just turn it ON and Xpiks will reopen files that you worked with previously.
 
 <p>
-  <img alt="Session management" src="{{site.url}}/images/posts/xpiks-15-overview/session-restore.png" class="small-12 large-12" />
+  <img alt="Session management" src='{{< misc/rel "/images/posts/xpiks-15-overview/session-restore.png" >}}' class="small-12 large-12" />
 </p>
 
 <br />
@@ -77,17 +77,17 @@ Xpiks now also supports automatic import of metadata. So if you add files or fol
 List of opened directories on the left has become more interactive now. You can easily filter files by clicking on the directory name. Multiselect is also available.
 
 <p>
-  <img alt="Directories filter" src="{{site.url}}/images/posts/xpiks-15-overview/directories-filter.gif" class="small-12 large-12" />
+  <img alt="Directories filter" src='{{< misc/rel "/images/posts/xpiks-15-overview/directories-filter.gif" >}}' class="small-12 large-12" />
 </p>
 
 <br />
 
 ## Semantical duplicates
 
-Some microstocks (like Shutterstock) usually cleanup your keywords in order to remove different duplicates like singular/plural forms of words. I'm happy to announce that Xpiks now is also capable of doing so! Though this is turned off by default, you can turn it on easily in the _Behavior_ tab in Settings. What is does is that it highlights duplicates as you type them in Title, Description and Keywords. You can read more in <a href="{{site.url}}/tutorials/keywords-duplicates">Duplicates section in Tutorials</a>.
+Some microstocks (like Shutterstock) usually cleanup your keywords in order to remove different duplicates like singular/plural forms of words. I'm happy to announce that Xpiks now is also capable of doing so! Though this is turned off by default, you can turn it on easily in the _Behavior_ tab in Settings. What is does is that it highlights duplicates as you type them in Title, Description and Keywords. You can read more in <a href='{{< misc/rel "/tutorials/keywords-duplicates" >}}'>Duplicates section in Tutorials</a>.
 
 <p>
-  <img alt="Duplicates" src="{{site.url}}/images/posts/xpiks-15-overview/duplicates.png" class="small-12 large-12" />
+  <img alt="Duplicates" src='{{< misc/rel "/images/posts/xpiks-15-overview/duplicates.png" >}}' class="small-12 large-12" />
 </p>
 
 <br />
@@ -98,7 +98,7 @@ Some microstocks (like Shutterstock) usually cleanup your keywords in order to r
 This release includes 4 new languages: _Hungarian_, _Indonesian_, _Polish_ and _Turkish_! Awesome people contributed to Xpiks translations at CrowdIn! So Xpiks is now available in 12 languages in total. <a href="https://crwd.in/xpiks">Click here</a> to translate Xpiks to Your language!
 
 <p>
-  <img alt="Translations" src="{{site.url}}/images/posts/xpiks-15-overview/translations.png" class="small-12 large-12" />
+  <img alt="Translations" src='{{< misc/rel "/images/posts/xpiks-15-overview/translations.png" >}}' class="small-12 large-12" />
 </p>
 
 <br />

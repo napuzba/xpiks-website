@@ -4,7 +4,7 @@ title: "In the pursuit of sharpness: downscaling images (tip: don't)"
 date: 2016-01-14T00:10:38+02:00
 ---
 
-<img alt="Pursuit of sharpness" src="{{site.url}}/images/sharpness_struggle.jpg" class="small-12 large-12" />
+<img alt="Pursuit of sharpness" src='{{< misc/rel "/images/sharpness_struggle.jpg" >}}' class="small-12 large-12" />
 
 There's a common misconception when you're trying to archieve a perfect sharp image: you downscale the original. In some cases it can help you, but there're <strong>a lot</strong> of situations when it will make your image look less sharp.
 

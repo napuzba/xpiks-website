@@ -9,7 +9,7 @@ Some microstocks consider semantical duplicates as a spam. So it might be not fa
 If duplicates detection is turned on in Settings, Xpiks will highlight duplicates with blue in _Keywords_ field and in _Description_ and _Title_ as well.
 
 <p>
-  <img alt="Duplicates" src="{{site.url}}/images/tutorials/keywording/duplicates.png" class="small-12 large-12" />
+  <img alt="Duplicates" src='{{< misc/rel "/images/tutorials/keywording/duplicates.png" >}}' class="small-12 large-12" />
 </p>
 
 <br />
@@ -17,5 +17,5 @@ If duplicates detection is turned on in Settings, Xpiks will highlight duplicate
 In order to fix them Xpiks highlights them clearly for you if you click "Show duplicates".
 
 <p>
-  <img alt="Fix duplicates" src="{{site.url}}/images/tutorials/keywording/fix-duplicates.gif" class="small-12 large-12" />
+  <img alt="Fix duplicates" src='{{< misc/rel "/images/tutorials/keywording/fix-duplicates.gif" >}}' class="small-12 large-12" />
 </p>

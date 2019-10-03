@@ -11,7 +11,7 @@ If you would be using <a href="https://sno.phy.queensu.ca/~phil/exiftool/">exift
 With Xpiks it's possible to do it for multiple files at once. This is desturctive operation with almost no way to restore, so Xpiks will ask you not once but twice to confirm.
 
 <p>
-  <img alt="Wipe all metadata" src="{{site.url}}/images/tutorials/howto/wipe-metadata.gif" class="small-12 large-12" />
+  <img alt="Wipe all metadata" src='{{< misc/rel "/images/tutorials/howto/wipe-metadata.gif" >}}' class="small-12 large-12" />
 </p>
 
 <br />
