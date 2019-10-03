@@ -1,0 +1,39 @@
+<div class="section-default section-tuts">
+  <div class="row">
+  <div class="small-12 medium-4 large-3 columns">
+    <div class="tutorials-sidebar">
+      {{ $topics := (where $.Site.RegularPages "Type" "topic")     }}
+      {{ $byTopicPages := $.Site.RegularPages.GroupByParam "topic" }}
+
+      <ul class="tutorial-nav">
+        {{ range $topic := $topics }}                         
+          {{ $is_current_topic := (eq $.Params.topic $topic.Params.slug) }}
+          {{ $curTopicPage := "" }}
+          {{ range $topicPage := $byTopicPages }}
+            {{ if ( eq $topicPage.Key $topic.Params.slug ) }}
+              {{ $curTopicPage = $topicPage.Pages }}
+            {{ end }}
+          {{ end }}
+          <li {{ if ($is_current_topic) }} class="active" {{ end }}>
+            <a href="{{$topic.RelPermalink}}">{{ $topic.Title }}</a>
+            <ul class="tutorial-sub-nav {% if is_current_topic %}topic-open{% endif %}">
+              {{ range $page := $curTopicPage }}
+              <li {{ if eq $.RelPermalink $page.RelPermalink }} class="active" {{ end }}>              
+                <a href="{{$page.RelPermalink}}">{{$page.Title}}</a>  
+              </li>
+              {{ end }}
+            </ul>
+          </li>
+        {{ end }}
+      </ul>
+    </div>
+  </div>
+  <div class="small-12 offset-large-1 large-8 medium-8 columns">
+    <div class="tutorial-content">
+    <h1>{{ $.Title}}</h1>
+    {{$.Content}}
+     // include pagination.html
+    </div>
+  </div>
+  </div>
+</div>
