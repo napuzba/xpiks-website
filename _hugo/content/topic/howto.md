@@ -1,6 +1,6 @@
 ---
 title: "How To"
-permalink: "/howto/"
+url:  "/howto/"
 slug: "howto"
 order: 8
 ---

@@ -1,6 +1,6 @@
 ---
 title: "Translator"
-permalink: "/translator/"
+url: "/translator/"
 slug: "translator"
 order: 7
 ---

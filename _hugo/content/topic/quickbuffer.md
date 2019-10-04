@@ -1,6 +1,6 @@
 ---
 title: "QuickBuffer"
-permalink: "/quickbuffer/"
+url: "/quickbuffer/"
 slug: "quickbuffer"
 order: 6
 ---

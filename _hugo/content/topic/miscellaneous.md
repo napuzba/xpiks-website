@@ -1,6 +1,6 @@
 ---
 title: "Miscellaneous"
-permalink: "/miscellaneous/"
+url:  "/miscellaneous/"
 slug: "miscellaneous"
 order: 9
 ---

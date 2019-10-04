@@ -1,6 +1,6 @@
 ---
 title: "Presets"
-permalink: "/presets/"
+url: "/presets/"
 slug: "presets"
 order: 5
 ---

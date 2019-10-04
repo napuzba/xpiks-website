@@ -1,6 +1,6 @@
 ---
 title: "Interface"
-permalink: "/interface/"
+url:  "/interface/"
 slug: "interface"
 order: 2
 ---

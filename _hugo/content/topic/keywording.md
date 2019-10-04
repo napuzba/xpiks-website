@@ -1,6 +1,6 @@
 ---
 title: "Keywording"
-permalink: "/keywording/"
+url:  "/keywording/"
 slug: "keywording"
 order: 3
 ---

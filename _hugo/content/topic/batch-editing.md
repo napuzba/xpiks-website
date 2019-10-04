@@ -1,6 +1,6 @@
 ---
 title: "Batch editing"
-permalink: "/batch-editing/"
+url: "/batch-editing/"
 slug: "batch-editing"
 order: 4
 ---
