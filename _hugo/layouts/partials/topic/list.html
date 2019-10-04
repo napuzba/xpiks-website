@@ -1,0 +1,6 @@
+{{ $tutorials := (sort (where $.Site.RegularPages "Params.topic" $.Params.slug )  "Params.order") }}
+<ul class="tutorial-overview-list">
+    {{ range $tutorial := $tutorials }}
+    <li><a href="{{$tutorial.RelPermalink}}">{{$tutorial.Title}}</a></li>
+    {{ end }}
+</ul>

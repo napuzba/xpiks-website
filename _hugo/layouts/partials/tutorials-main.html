@@ -1,25 +1,28 @@
+{{- $.Scratch.Set "free_download" true -}}
+{{- $.Scratch.Set "free_download_class" "section-grey" -}}
+
 <div class="section-default section-tuts">
   <div class="row">
   <div class="small-12 medium-4 large-3 columns">
     <div class="tutorials-sidebar">
-      {{ $topics := (where $.Site.RegularPages "Type" "topic")     }}
+      {{ $topics := (sort (where $.Site.RegularPages "Type" "topic")  "Params.order")  }}
       {{ $byTopicPages := $.Site.RegularPages.GroupByParam "topic" }}
 
       <ul class="tutorial-nav">
-        {{ range $topic := $topics }}                         
+        {{ range $topic := $topics }}
           {{ $is_current_topic := (eq $.Params.topic $topic.Params.slug) }}
           {{ $curTopicPage := "" }}
           {{ range $topicPage := $byTopicPages }}
             {{ if ( eq $topicPage.Key $topic.Params.slug ) }}
-              {{ $curTopicPage = $topicPage.Pages }}
+              {{ $curTopicPage = (sort $topicPage.Pages  "Params.order") }}
             {{ end }}
           {{ end }}
           <li {{ if ($is_current_topic) }} class="active" {{ end }}>
             <a href="{{$topic.RelPermalink}}">{{ $topic.Title }}</a>
-            <ul class="tutorial-sub-nav {% if is_current_topic %}topic-open{% endif %}">
+            <ul class="tutorial-sub-nav {{ if ($is_current_topic) }}topic-open{{ end }}">
               {{ range $page := $curTopicPage }}
-              <li {{ if eq $.RelPermalink $page.RelPermalink }} class="active" {{ end }}>              
-                <a href="{{$page.RelPermalink}}">{{$page.Title}}</a>  
+              <li {{ if eq $.RelPermalink $page.RelPermalink }} class="active" {{ end }}>
+                <a href="{{$page.RelPermalink}}">{{$page.Title}}</a>
               </li>
               {{ end }}
             </ul>
@@ -32,6 +35,9 @@
     <div class="tutorial-content">
     <h1>{{ $.Title}}</h1>
     {{$.Content}}
+    {{if (eq $.Type "topic") }}
+      {{ partial "topic/list" .}}
+    {{end}}
      // include pagination.html
     </div>
   </div>
