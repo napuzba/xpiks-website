@@ -1,0 +1,8 @@
+baseURL: "https://xpiksapp.com/"
+languageCode: "en-us"
+title: "Application for keywording and uploading to microstocks"
+params:
+  description: "Application for keywording and uploading to microstocks"
+  google_universal_analytics: UA-10412407-9
+  google_universal_analytics_cookiedomain: auto
+

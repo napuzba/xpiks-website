@@ -1,9 +1,21 @@
+{{- $title := $.Site.Title -}}
+{{- $about :=  $.Site.Params.description -}}
+{{- if $.Title   -}} {{- $title = $.Title -}} {{- end -}}
+{{- if $.Content -}} {{- $about = ($.Content | plainify | replace "\n" "" | truncate 160 "" ) -}} {{- end -}}
 <meta charset="utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width initial-scale=1">
-
-<title>{{ $.Title }}</title>
+<title>{{$title}} | Xpiks</title>
+<meta name="description" content="{{$about}}">
 <link href="/css/main.css" media="screen, projection" rel="stylesheet" type="text/css">
 <link href="/css/custom.css" media="screen, projection" rel="stylesheet" type="text/css">
-
-
+<link rel="canonical" href="{{$.Permalink}}">
+<link rel="alternate" type="application/atom+xml" title="{{ $.Site.Title }}" href='{{ "index.xml" | relURL }}'/>
+<link rel="shortcut icon" type="image/png" href='{{"favicon.png?v=1" | relURL }}'>
+<meta property="og:title" content="{{$title}}" />
+<meta property="og:locale" content="{{ $.Site.LanguageCode | default "en" }}" />
+<meta property="og:description" content="{{$about}}" />
+<meta property="og:url" content="{{$.Permalink}}" />
+<meta property="og:site_name" content="Xpiks" />
+<script type="application/ld+json">{"@type":"WebPage","headline":"{{$title}}","url":"{{$.Permalink}}","description":"{{$about}}","@context":"http://schema.org"}</script>
+{{ partial "google_analytics" . }}
