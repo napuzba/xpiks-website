@@ -13,11 +13,18 @@
           <a class="post-link" href="{{ $page.RelPermalink}}">{{ $page.Title }}</a>
         </h2>
         <div class="post-content">
-          {{ $page.Content | plainify | truncate 200 }}
+            {{- $about := ($page.Content | plainify | htmlUnescape ) -}}
+            {{- $about = (replaceRE "(?m)(\\r|\\n)" " " $about) -}}
+            {{- $about = (replaceRE " +"    " " $about) -}}
+            {{- $about = (replaceRE "^ +"  ""  $about) -}}
+            {{- $about = (replaceRE " +$"  ""  $about) -}}
+            {{- $about = (truncate 250  " ..."  $about) -}}
+            {{ $about }}
         </div>
         <a href="{{ $page.RelPermalink}}" class="button">More</a>
       </div>
       {{end}}
+      {{- $.Scratch.Set "pager" $pager -}}
       {{ partial "pager-blog-list" . }}
   </div>
 </div>
