@@ -3,7 +3,7 @@
 <head>
   {{ partial "site-head.html" . }}
 </head>
-<body>
+<body class='{{block "body_class" . }}{{ end }}'>
 {{- $.Scratch.Set "free_download"       $.Params.free_download -}}
 {{- $.Scratch.Set "free_download_class" $.Params.free_download_class -}}
 <main class="wrap">

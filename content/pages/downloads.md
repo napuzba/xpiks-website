@@ -1,9 +1,8 @@
 ---
-layout : "page"
+layout : "page-downloads"
 title: Downloads
 url: "/downloads/"
 ---
-
 <header class="page-header">
   <img class="page-header-logo" src="{{< misc/rel "/images/logo-big-shadowed.png" >}}" alt="Xpiks">
 

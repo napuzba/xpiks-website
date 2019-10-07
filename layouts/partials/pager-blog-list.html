@@ -3,6 +3,6 @@
 {{- if $pager.HasNext -}} {{- $.Scratch.Set "prevPageLink" $pager.Next.URL -}} {{ else }} {{- $.Scratch.Set "prevPageLink" nil -}} {{ end }}
 <div class="row signle-post-pagination-wrapper">
   <div class="small-12">
-  {{ partial "pager" . }}
+    {{ partial "pager" . }}
   </div>
 </div>

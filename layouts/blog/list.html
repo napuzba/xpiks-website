@@ -24,8 +24,10 @@
         <a href="{{ $page.RelPermalink}}" class="button">More</a>
       </div>
       {{end}}
-      {{- $.Scratch.Set "pager" $pager -}}
-      {{ partial "pager-blog-list" . }}
   </div>
 </div>
+{{- $.Scratch.Set "pager" $pager -}}
+{{ partial "pager-blog-list" . }}
 {{ end }}
+
+{{- define "body_class" -}} blog-page {{- end -}}

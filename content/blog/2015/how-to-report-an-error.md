@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "How to report a bug"
-permalink: /how-to-report-a-bug/
+url: /how-to-report-a-bug/
 date: 2015-09-03T07:45:01+02:00
 ---
 

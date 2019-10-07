@@ -3,9 +3,7 @@ layout : "page"
 title: "Productivity plugin overview"
 url: "/mg-plugin/"
 ---
-
 {{< header >}}
-
 <div class="row">
   <div class="small-12">
     <article class="post-content">

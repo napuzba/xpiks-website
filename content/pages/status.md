@@ -1,9 +1,8 @@
 ---
-layout : "page"
+layout : "page-blog"
 title: Status
 url: "/status/"
 ---
-
 {{< header >}}
 <div class="row">
   <div class="small-12">

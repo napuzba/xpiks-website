@@ -1,6 +1,6 @@
-<div class="pagination">
   {{ $prevPageLink  := .Scratch.Get "prevPageLink"  }}
   {{ $nextPageLink  := .Scratch.Get "nextPageLink"  }}
+  <div class="pagination"><div class="row">
   <div class="small-6 pagination-prev">
     {{ if $prevPageLink }}
     <a href="{{ $prevPageLink }}" class="previous">
@@ -26,4 +26,4 @@
     </a>
     {{ end }}
   </div>
-</div>
+</div></div>

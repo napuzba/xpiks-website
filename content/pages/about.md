@@ -1,11 +1,9 @@
 ---
-layout : "page"
+layout : "page-blog"
 title: "About us"
 url : "/about/"
 ---
-
 {{< header >}}
-
 <div class="row">
   <div class="small-12">
     <div class="single-post">

@@ -1,4 +1,3 @@
-
 {{ if $.Prev }} {{- $.Scratch.Set "prevPageLink" $.Prev.RelPermalink -}} {{ else }} {{- $.Scratch.Set "prevPageLink" nil -}} {{- end -}}
 {{ if $.Next }} {{- $.Scratch.Set "nextPageLink" $.Next.RelPermalink -}} {{ else }} {{- $.Scratch.Set "nextPageLink" nil -}} {{- end -}}
 <div class="row signle-post-pagination-wrapper">

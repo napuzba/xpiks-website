@@ -8,6 +8,7 @@
       {{ $topics := (sort (where $.Site.RegularPages "Type" "topic")  "Params.order")  }}
       {{ $byTopicPages := $.Site.RegularPages.GroupByParam "topic" }}
 
+      <h3>Contents</h3>
       <ul class="tutorial-nav">
         {{ range $topic := $topics }}
           {{ $is_current_topic := (eq $.Params.topic $topic.Params.slug) }}
