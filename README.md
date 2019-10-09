@@ -1,5 +1,6 @@
 # xpiks
 
+Use extended version of hugo to generete site. See [Install Hugo](https://gohugo.io/getting-started/installing/).
 
 ## Usage Local Server
 

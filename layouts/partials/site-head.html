@@ -14,8 +14,10 @@
 <meta name="viewport" content="width=device-width initial-scale=1">
 <title>{{$title}} | Xpiks</title>
 <meta name="description" content="{{$about}}">
-<link href="/css/main.css" media="screen, projection" rel="stylesheet" type="text/css">
-<link href="/css/custom.css" media="screen, projection" rel="stylesheet" type="text/css">
+{{$style1 := resources.Get "css/main.scss"   | resources.ToCSS | resources.Minify | resources.Fingerprint -}}
+<link rel="stylesheet" media="screen, projection" href="{{ $style1.RelPermalink }}" type="text/css">
+{{$style2 := resources.Get "css/custom.scss" | resources.ToCSS | resources.Minify | resources.Fingerprint -}}
+<link rel="stylesheet" media="screen, projection" href="{{ $style2.RelPermalink }}" type="text/css">
 <link rel="canonical" href="{{$.Permalink}}">
 <link rel="alternate" type="application/atom+xml" title="{{ $.Site.Title }}" href='{{ "index.xml" | relURL }}'/>
 <link rel="shortcut icon" type="image/png" href='{{"favicon.png?v=1" | relURL }}'>
