@@ -46,8 +46,6 @@ Payments go out once a month (between the 7th and the 15th). All payments are ma
   <img alt="Money" src="{{site.url}}/images/posts/shutterstock-review/banknotes-cash-currency-545064.jpg" class="small-12 large-12" />
 </p>
 
-<br />
-
 There are a number of earning tiers and payments attached to Shutterstock. At first with every download of your images you receive a quarter. However, when you've made a total of $500 (2,000 downloads) you'll receive an increase up to 33 cents per download. When you hit the $3,000 mark of lifetime earnings you'll make 36 cents per download, and when you reach $10,000 in total earnings you'll make 38 cents per download.
 
 You can also sell the license of your photo, in which case the person downloading the photo will obtain the rights and you won't be able to use the photo any longer. In these instances you'll be able to set an asking price.
