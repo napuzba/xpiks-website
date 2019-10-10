@@ -3,6 +3,7 @@ layout : "page-blog"
 title: Status
 url: "/status/"
 ---
+<div>
 {{< header >}}
 <div class="row">
   <div class="small-12">
@@ -15,4 +16,5 @@ url: "/status/"
       </div>
     </div>
   </div>
+</div>
 </div>

@@ -3,6 +3,7 @@ layout : "page-blog"
 title: "About us"
 url : "/about/"
 ---
+<div>
 {{< header >}}
 <div class="row">
   <div class="small-12">
@@ -21,4 +22,5 @@ url : "/about/"
       </div>
     </div>
   </div>
+</div>
 </div>
