@@ -10,9 +10,9 @@ To generete optimizated static site, install Node.js for your platform. See [Ins
 
 ## Run Local Server
 
-In bash shell, invoke build-server.sh
+In bash shell, invoke build-server
 
-    $ ./build-server.sh
+    $ ./build-server
 
     port 1313 already in use, attempting to use an available port
     Building sites …
@@ -23,9 +23,9 @@ The site will be available at http://localhost:1313
 
 ## Generate Static Site
  
-In bash shell, invoke build.sh
+In bash shell, invoke build
     
-    $ ./build.sh
+    $ ./build
 
     Building sites …
                      | EN
@@ -45,9 +45,9 @@ The public folder contains the static site.
 
 ## Generate Optimized Static Site
 
-In bash shell, invoke build-dist.sh
+In bash shell, invoke build-dist
  
-    $ ./build-dist.sh
+    $ ./build-dist
     
     Building sites …
                      | EN
