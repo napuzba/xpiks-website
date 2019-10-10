@@ -43,7 +43,7 @@ In bash shell, invoke build.sh
 
 The public folder contains the static site.
 
-## Generate Optimizated Static Site
+## Generate Optimized Static Site
 
 In bash shell, invoke build-dist.sh
  
