@@ -11,7 +11,7 @@
       <h3>Contents</h3>
       <ul class="tutorial-nav">
         {{ range $topic := $topics }}
-          {{ $is_current_topic := (eq $.Params.topic $topic.Params.slug) }}
+          {{ $is_current_topic := ( or (eq $.Params.topic $topic.Params.slug) (eq $.RelPermalink $topic.RelPermalink)) }}
           {{ $curTopicPage := "" }}
           {{ range $topicPage := $byTopicPages }}
             {{ if ( eq $topicPage.Key $topic.Params.slug ) }}
